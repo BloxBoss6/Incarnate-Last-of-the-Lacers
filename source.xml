@@ -6,7 +6,7 @@
         </update>
     </info>
 
-    <element name="Incarnate: Last of the Lacers" type="Source" source="DM's Guild" id="ID_DM_GUILD_SOURCE_INCARNATE">
+    <element name="Incarnate: The Last of the Lacers" type="Source" source="DM's Guild" id="ID_DM_GUILD_SOURCE_INCARNATE">
         <setters>
             <set name="abbreviation">INCARN</set>
             <set name="url">https://github.com/BloxBoss6/Incarnate-Last-of-the-Lacers</set>
