@@ -4,12 +4,12 @@
 		<name>Water Clan</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
-		<update version="0.1">
+		<update version="0.2">
 			<file name="water-clan.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/water-clan.xml" />
 		</update>
 	</info>
 
-  <element name="Water Clan" type="Race" source="Incarnate: The Last of the Lacers" id="ID_RACE_WATER_CLAN">
+  <element name="Water Clan" type="Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACE_WATER_CLAN">
     <description>
       <p class="flavor">"Water is the element of change. The people of the water clan are capable of adapting to many things. They have a deep sense of community and love that holds them together through anything." - General Ichiro, The Division of the Elements</p>
       <p>Adaptable and proud, with a long tradition of enduring the harshest climates imaginable. Perched on the edge of the world, making the land and seas work for them. Welcoming of change and of outsiders, known for sharing hospitality with those who may end up on their shores. These are the things that tie the water clan together across the entire world.</p>
@@ -70,16 +70,16 @@
       <stat name="constitution" value="2" />
       <stat name="innate speed" value="30" bonus="base" />
       <grant type="Size" id="ID_SIZE_MEDIUM" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_NATURAL_HEALER" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_TRADITIONAL_REMEDIES" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_WATERBORNE" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_NATURAL_HEALER" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_TRADITIONAL_REMEDIES" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_WATERBORNE" />
       <grant type="Language" id="ID_LANGUAGE_COMMON" />
-      <!--grant type="Language" id="ID_LANGUAGE_IMIQ" /-->
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_WATER_CLAN_SUBRACE" />
+      <!--grant type="Language" id="ID_INCRN_LANGUAGE_IMIQ" /-->
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_WATER_CLAN_SUBRACE" />
     </rules>
   </element>
 
-  <element name="Natural Healer" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_NATURAL_HEALER">
+  <element name="Natural Healer" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_NATURAL_HEALER">
     <description>
       <p>If you roll a 1 when healing hit points (such as when resting or initiating a form that heals hit points), you can reroll the die and must use the new roll.</p>
     </description>
@@ -88,7 +88,7 @@
     </sheet>
   </element>
 
-  <element name="Traditional Remedies" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_TRADITIONAL_REMEDIES">
+  <element name="Traditional Remedies" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_TRADITIONAL_REMEDIES">
     <description>
       <p>You gain proficiency in the medicine skill.</p>
     </description>
@@ -100,7 +100,7 @@
     </rules>
   </element>
 
-  <element name="Waterborne" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_WATERBORNE">
+  <element name="Waterborne" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_WATERBORNE">
     <description>
       <p>You have advantage on Strength (Athletics) and Dexterity (Acrobatics) checks made while underwater.</p>
     </description>
@@ -109,7 +109,7 @@
     </sheet>
   </element>
 
-  <element name="Water Clan Subrace" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_WATER_CLAN_SUBRACE">
+  <element name="Water Clan Subrace" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_WATER_CLAN_SUBRACE">
     <description>
       <p>The two main groups of the water clan, the polar clan and the swamp people, are mainly separated by geography. The polar clan is used to enduring harsh and biting winters, while the swamp people are more familiar with muggy, humid bayous. Choose one of these subraces.</p>
     </description>
@@ -120,7 +120,7 @@
   </element>
 
 
-  <element name="Polar Clan" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_POLAR_CLAN">
+  <element name="Polar Clan" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_POLAR_CLAN">
     <supports>Water Clan</supports>
     <description>
       <p>While water is seen as the element of adaptability, polar water clan members have rituals and traditions that they strictly adhere to. The northern polar clan typically separates the division of labor along gender lines, with men working as hunters, fishermen, and warriors, and women serving as homemakers, healers, or teachers. As the Great Glacier continues to retreat, the polar clan clings to these traditions in an attempt to keep their culture from disappearing as quickly as their home does. Both groups are still accepting of change, however, and do share common characteristics with one another.</p>
@@ -133,12 +133,12 @@
     <sheet display="false" />
     <rules>
       <stat name="strength" value="1" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_COLD_ENDURANCE" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_EXTREME_ENVIRONMENT" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_COLD_ENDURANCE" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_EXTREME_ENVIRONMENT" />
     </rules>
   </element>
 
-  <element name="Cold Endurance" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_COLD_ENDURANCE">
+  <element name="Cold Endurance" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_COLD_ENDURANCE">
     <description>
       <p>You gain resistance to cold damage.</p>
     </description>
@@ -150,7 +150,7 @@
     </rules>
   </element>
 
-  <element name="Extreme Environment" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_EXTREME_ENVIRONMENT">
+  <element name="Extreme Environment" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_EXTREME_ENVIRONMENT">
     <description>
       <p>The first time you would be required to make a saving throw against exhaustion in a day due to environmental effects (such as extreme cold, hunger, or loss of sleep), you can shrug off the effect, automatically succeeding on the saving throw. Once you use this trait, you must complete a long rest before you can do so again.</p>
     </description>
@@ -159,7 +159,7 @@
     </sheet>
   </element>
 
-  <element name="Swamp People" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_SWAMP_RACE">
+  <element name="Swamp People" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_SWAMP_RACE">
     <supports>Water Clan</supports>
     <description>
       <p>The swamp people don’t have much contact with their polar brethren, but still see them as family just the same. Members of the water clan always have a friend in the swamps and bayous of the world, anywhere they can find a swamp person. The largest concentration of swamp people live in the Vast Swamp. Naturally gregarious, the swamp people have learned to use the swamp’s lora	and fauna	to serve their needs, and don’t usually venture beyond their home unless spurred to do so by some outside force.</p>
@@ -172,12 +172,12 @@
     <sheet display="false" />
     <rules>
       <stat name="wisdom" value="1" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_PLANT_FAMILIARITY" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_MASK_OF_THE_WILD" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_PLANT_FAMILIARITY" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_MASK_OF_THE_WILD" />
     </rules>
   </element>
 
-  <element name="Plant Familiarity" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_PLANT_FAMILIARITY">
+  <element name="Plant Familiarity" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_PLANT_FAMILIARITY">
     <description>
       <p>You have advantage on Intelligence (Nature) checks made to identify and understand the properties of plants and plant creatures.</p>
     </description>
@@ -186,7 +186,7 @@
     </sheet>
   </element>
   
-  <element name="Mask of the Wild" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_MASK_OF_THE_WILD">
+  <element name="Mask of the Wild" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_MASK_OF_THE_WILD">
     <description>
       <p>You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
     </description>

@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Okabe</name>
+		<description></description>
+		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
+		<update version="0.1">
+			<file name="okabe.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/okabe.xml" />
+		</update>
+	</info>
+
+  <element name="Okabe" type="Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACE_OKABE">
+    <description>
+      <p class="flavor">"She's a part of our town's lore. They say she's a river spirit who watches over our town in times of need. I always thought she was just a legend. Until now..."</p>
+      <p>Secluded and secretive, the obake make many appearances in the folklore and stories of other races, yet few have truly been encountered. Even those who do meet an obake may never know it, as they can take on human forms and live amongst other races, with their true nature never being uncovered.</p>
+
+      <h4>EMERGING FROM TWILIGHT</h4>
+      <p>Obake hail from the Spirit World, the swirling etherealness that surrounds the Material Plane. All obake come from the <b>Feywild</b> or the <b>Shadowfell</b>, and its influence can always be seen in their forms, even when they make an attempt to hide it. Obake from the Feywild typically have colors that mimic the rising sun, vibrant oranges and yellows, eye-catching and inviting. Obake from the Shadowfell, on the other hand, are usually very dark, appearing in blacks and other dim hues.</p>
+      <p class="indent">Obake also vary wildly in size, running the gamut from short and stout at 3 feet, to taller (although still typically stout) at closer to 5 feet.</p>
+      <p class="indent">Most obake hide what they are, but leave clues on their person or wear symbols on their clothing to signal to other obake what they truly are. This can come in the form ancient spiritual designs or signiicant colors.</p>
+      <p class="indent">True obake have three forms that they assume at will, which leads to further confusion in attempting to document or study them. There is a humanoid form; one which can pass amongst other human societies unhindered. They also have an animal form; the ability to become an animal of a type associated with their speciic race. And finally, they have a	middle form, a	form that usually walks on two legs and has hands, but has physical features based on its animal form (so a	cat obake will have fur and a	tail in this form, for example). It is this middle form that obake typically consider their "true" form, with the other two being temporary diversions from this true self.</p>
+
+      <h4>HIDDEN SOCIETIES</h4>
+      <p>While they have been known to live among others, most obake who choose to live on the Material Plane are very secretive, forming tight-knit communities amongst themselves. Obake form small towns and communities deep in the wilderness, far away from prying eyes. There are travelers who have reported stumbling upon a small town in the middle of a dense, deep forest, with no inhabitants. A town that looks as though it was lived in recently, but with no one there. These are obake villages, whose members have disguised themselves as woodland creatures until the intruder passes on.</p>
+
+      <h4>THE BIRTH OF TRADITION</h4>
+      <p>Many obake are incredibly long-lived, and it is unknown if they ever truly die. It is known that obake who live on the Material Plane do age, and yet their lives are still centuries long. It is rumored that some obake can live for over a	millenia, watching nations rise and fall, traditions form and die. These long lifespans allow obake a	unique view into culture and folklore.</p>
+      <p class="indent">Obake are lovers of games and fun, and have laid claim to having invented many of the world's games that have been passed down through the ages. The truth of such statements is dificult to verify, as although obake are not untruthful, they are lovers of tricks and secrets, and what may seem to be a	lie to someone less long-lived may simply be jesting fun for an obake.</p>
+
+      <h4>WANDERLUST</h4>
+      <p>While obake are generally secretive and secluded, it is quite common for obake to be included among other communities, although rarely do they reveal their secret identities. As incredibly long-lived entities, it can be dificult to pinpoint exactly why obake choose to do anything, especially leave their communities behind and travel the world. The inner workings of an obake's mind can be a mystery, even to the obake themself, and are rarely understood well.</p>
+      
+      <h4>THE ENGIMA</h4>
+      <p>Obake are great lovers of jokes, tricks, and pranks. They can be quick to welcome others into their secretive societies, or can be just as quick to exclude them. How obake feel about individuals can change rapidly, but how obake feel about other races as a whole are often more grounded.</p>
+      <p class="indent"><b>Fire Folk.</b> "I love fire folk festivals! Of all the people in the world, the fire folk are most likely to be holding some kind of party at any given moment! Of course, I can never tell them where I live, spirits know what they might do. But it's the best place to disguise yourself as a human and just have a good time!"</p>
+      <p class="indent"><b>Air Monks.</b> "I don't think many understand the air monks quite like we do. Sure they appear boring and ordinary on the outside, but they actually love pranks. There's nothing like a prank war with an air monk, especially one who doesn't know what you really are."</p>
+      <p class="indent"><b>Water Clan.</b> "People from the water clan are malleable, that's what I like about them. They can roll with the punches, never getting too hung up on tradition and whatnot. Sure they have their history, and some of their ideas can be a little wacky, but spend enough time with someone from the water clan, and you might see real change in them. That's not something you see often."</p>
+      <p class="indent"><b>Earth Kin.</b> "Out of everyone, the earth kin can be the most stubborn. This isn't always a bad thing, but their unwillingness to budge isn't exactly fun. Lighten up, right?"</p>
+
+      <h4>OKABE NAMES</h4>
+      <p>Obake are generally referred to by two names throughout their life. When an obake is born, it is given a name by its family. These names are often ancient, and their true origins are unknown. Obake who still go by their family's given name are considered children, even those who are hundreds of years old. The concept of young or old in regards to the term child is not well understood by obake.</p>
+      <p class="indent">An obake becomes an adult when it is given a name by another creature. The other creature may be another obake who has referred to it by its family name for years. Or it may be a member of another community or race, who has never heard of the obake's true name and so calls it something else. While an obake is never to explicitly encourage another creature to give it its adult name, the moment when an obake becomes an adult is one that is rarely forgotten.</p>
+      <p>
+        <span class="feature">Male Names:</span>Akaname, Ebisu, Fujin, Futsunushi, Hachi, Inari, Izanagi, Jimmu, Kagutsuchi, Koyane, Mikaboshi, Momonjii, Niniji, Oyamatsumi, Raijin, Ryujin, Sarutahiko, Suijin, Tajimamori, Tenjin, Tsukiyomi, Yamatsumi<br/>
+        <span class="feature">Female Names:</span>Ama, Benzaiten, Byakko, Chimi, Hashihime, Iwanaga, Izanami, Kejoro, Kijo, Kuebiko, Kuraokami, Momiji, Myobu, Okami, Omoikane, Sakuya, Shirayama, Sukuna, Terasu, Toyotama, Tsuki, Ukemochi, Uzume, Yurei<br/>
+      </p>
+
+      <h4>OKABE TRAITS</h4>
+      <p>Due to the wide variety of subraces there are amongst obake, they differ greatly from one another, but do share some qualities.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Choose either your Wisdom or your Charisma score. That ability score increases by 2.<br />
+        <span class="feature">Age.</span>Each obake is unique, but as a	rule, are incredibly longlived. An obake may reach what equates to adulthood after a decade, or not until after a	 century or more. It is unknown whether it is possible for obake to die of old age. While living in the Spirit World, obake are effectively immortal, being reincarnated into a	 new form when they would die, although they lose this immortality if they choose to live on the Material Plane.<br />
+        <span class="feature">Alignment.</span>Obake seek balance, and tend towards being neutral.<br />
+        <span class="feature">Size.</span>Humanoid spirits come in varying sizes, but are typically shorter than humans overall. You have a	choice of being Small or Medium size. Small obake are typically between 3 and 4 feet tall and average around 40 pounds, while Medium obake are typically between 4 and 5 feet tall, and average around 90 pounds.<br />
+        <span class="feature">Speed.</span>Your base walking speed is 25 feet.<br />
+        <span class="feature">Fey Ancestry.</span>You have advantage on saving throws against being charmed, and magic can't put you to sleep.<br />
+        <span class="feature">Spirit Magic.</span>You know the druidcraft cantrip.<br />
+        <span class="feature">Transformation.</span>In addition to your true form, you have a humanoid and animal form (your animal form depends on your subrace). You can assume either form as an action. These forms appear the same whenever you assume them; you cannot alter how they look. When you assume your humanoid form, your game statistics remain the same. For speciics on taking your animal form, please see the Animal Transformation sidebar. What animal form you can take is outlined in each of the subraces presented below.<br />
+        <span class="feature">Darkvision</span>Thanks to your fey ancestry, you have superior vision in dark and dim conditions. You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.<br />
+        <span class="feature">Languages.</span>You can speak, read, and write Common and Sylvan.<br />
+        <span class="feature">Subrace.</span>There are nine distinct subraces among obake. Each one resembles a different kind of animal, although all obake, even those of different animal types, regard one-another as kin. Choose one of these subraces.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <setters>
+      <set name="names" type="male">Akaname, Ebisu, Fujin, Futsunushi, Hachi, Inari, Izanagi, Jimmu, Kagutsuchi, Koyane, Mikaboshi, Momonjii, Niniji, Oyamatsumi, Raijin, Ryujin, Sarutahiko, Suijin, Tajimamori, Tenjin, Tsukiyomi, Yamatsumi</set>
+      <set name="names" type="female">Ama, Benzaiten, Byakko, Chimi, Hashihime, Iwanaga, Izanami, Kejoro, Kijo, Kuebiko, Kuraokami, Momiji, Myobu, Okami, Omoikane, Sakuya, Shirayama, Sukuna, Terasu, Toyotama, Tsuki, Ukemochi, Uzume, Yurei</set>
+      <set name="names-format">{{name}}</set>
+      <set name="height" modifier="2d10">2'8"</set>
+      <set name="weight" modifier="2d4">90 lb.</set>
+    </setters>
+    <rules>
+      <select type="Racial Trait" name="Ability Score Increase (Obake)" supports="Obake" number="2"/>
+      <stat name="innate speed" value="30" bonus="base" />
+      <grant type="Size" id="ID_SIZE_MEDIUM" />
+      <grant type="Vision" id="ID_VISION_DARKVISION" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_FEY_ANCESTRY" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_SPIRIT_MAGIC" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_TRANSFORMATION" />
+      <grant type="Language" id="ID_LANGUAGE_COMMON" />
+      <!--grant type="Language" id="ID_INCRN_LANGUAGE_KASAI" /-->
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_OBAKE_SUBRACE" />
+    </rules>
+  </element>
+
+  <element name="Ability Score Increase (Charisma)" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_OBAKE_CHARISMA">
+		<compendium display="false" />
+		<supports>Obake</supports>
+		<description>
+			<p>Your Charisma score increases by 1.</p>
+		</description>
+		<rules>
+			<stat name="charisma" value="1"/>
+		</rules>
+	</element>
+
+	<element name="Ability Score Increase (Wisdom)" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_OBAKE_WISDOM">
+		<compendium display="false" />
+		<supports>Obake</supports>
+		<description>
+			<p>Your Wisdom score increases by 1.</p>
+		</description>
+		<rules>
+			<stat name="wisdom" value="1"/>
+		</rules>
+	</element>
+
+  <element name="Spirit Magic" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_SPIRIT_MAGIC">
+    <description>
+      <p>You know the druidcraft cantrip.</p>
+    </description>
+    <sheet>
+      <description>You know the druidcraft cantrip.</description>
+    </sheet>
+    <rules>
+      <grant type="Spell" id="ID_PHB_SPELL_DRUIDCRAFT" />
+    </rules>
+  </element>
+
+  <element name="Transformation" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_TRANSFORMATION">
+    <description>
+      <p>In addition to your true form, you have a humanoid and animal form (your animal form depends on your subrace). You can assume either form as an action. These forms appear the same whenever you assume them; you cannot alter how they look. When you assume your humanoid form, your game statistics remain the same. For speciics on taking your animal form, please see the Animal Transformation sidebar. What animal form you can take is outlined in each of the subraces presented below.</p>
+    </description>
+    <sheet>
+      <description>In addition to your true form, you have a humanoid and animal form. You can assume either form as an action. These forms appear the same whenever you assume them; you cannot alter how they look. When you assume your humanoid form, your game statistics remain the same.</description>
+    </sheet>
+  </element>
+
+  <element name="Obake Subrace" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_OBAKE_SUBRACE">
+    <description>
+      <p>There are nine distinct subraces among obake. Each one resembles a different kind of animal, although all obake, even those of different animal types, regard one-another as kin. Choose one of these subraces.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <select type="Sub Race" name="Obake Subrace" supports="Obake" />
+    </rules>
+  </element>
+
+
+  <element name="Bake-Danuki" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_BAKE_DANUKI">
+    <supports>Obake</supports>
+    <description>
+      <p>Bake-danuki are obake that resemble tanuki, or raccoon dogs. Unlike some other obake that avoid other creatures, bakedanuki enjoy being part of a community and forming bonds with humans. Mischievious and jolly, bake-danuki can be somewhat naive and absentminded. However, those who form true friendships with bake-danuki will instead be invited to join in the fun of playing harmless pranks and tricks on others.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Constitution score increases by 1.<br />
+        <span class="feature">Tanuki Spirit.</span>Through sounds and gestures, you can communicate simple ideas to Small or smaller tanuki and other canines. Your Transformation ability allows you to assume the form of a	tanuki.<br />
+        <span class="feature">Statue Form.</span>You can use your action to become a stone statue of yourself in your current form. This form lasts until you choose to end it as an action. You are considered petriied for the duration, although you are still aware of your surroundings. This trait does not make you immune to poison or disease. You can end the effect as an action.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="consitution" value="1" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_TANUKI_SPIRIT" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_STATUE_FORM" />
+    </rules>
+  </element>
+
+  <element name="Tanuki Spirit" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_TANUKI_SPIRIT">
+    <description>
+      <p>Through sounds and gestures, you can communicate simple ideas to Small or smaller tanuki and other canines. Your Transformation ability allows you to assume the form of a	tanuki.</p>
+    </description>
+    <sheet>
+      <description>Through sounds and gestures, you can communicate simple ideas to Small or smaller tanuki and other canines. Your Transformation ability allows you to assume the form of a	tanuki.</description>
+    </sheet>
+  </element>
+
+  <element name="Statue Form" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_STATUE_FORM">
+    <description>
+      <p>You can use your action to become a stone statue of yourself in your current form. This form lasts until you choose to end it as an action. You are considered petriied for the duration, although you are still aware of your surroundings. This trait does not make you immune to poison or disease. You can end the effect as an action.</p>
+    </description>
+    <sheet>
+      <description>You can use your action to become a stone statue of yourself in your current form. This form lasts until you choose to end it as an action. You are considered petriied for the duration, although you are still aware of your surroundings. This trait does not make you immune to poison or disease. You can end the effect as an action.</description>
+    </sheet>
+  </element>
+
+  <element name="Hebi" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_HEBI">
+    <supports>Obake</supports>
+    <description>
+      <p>Hebi are snake-like obake, with thin, sinuous bodies and forked tongues. Despite their fearsome appearance, Hebi are gentle, secretive spirits. Hebi typically keep off the beaten path, and avoid other creatures if possible, living simple lives deep in the wilderness.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Intelligence score increases by 1.<br />
+        <span class="feature">Snake Spirit.</span>Through sounds and gestures, you can communicate simple ideas to Small or smaller snakes and other serpents. Your Transformation ability allows you to assume the form of a	poisonous snake.<br />
+        <span class="feature">Camouflage.</span>If you have made a Dexterity (Stealth) check to hide yourself, creatures have disadvantage on Wisdom (Perception) checks they make to see you if you remain motionless. You can still be detected through other means normally.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="intelligence" value="1" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_SNAKE_SPIRIT" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_CAMOUFLAGE" />
+    </rules>
+  </element>
+
+  <element name="Snake Spirit" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_SNAKE_SPIRIT">
+    <description>
+      <p>Through sounds and gestures, you can communicate simple ideas to Small or smaller snakes and other serpents. Your Transformation ability allows you to assume the form of a poisonous snake.</p>
+    </description>
+    <sheet>
+      <description>Through sounds and gestures, you can communicate simple ideas to Small or smaller snakes and other serpents. Your Transformation ability allows you to assume the form of a poisonous snake.</description>
+    </sheet>
+  </element>
+  
+  <element name="Camouflage" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_CAMOUFLAGE">
+    <description>
+      <p>If you have made a Dexterity (Stealth) check to hide yourself, creatures have disadvantage on Wisdom (Perception) checks they make to see you if you remain motionless. You can still be detected through other means normally.</p>
+    </description>
+    <sheet>
+      <description>If you have made a Dexterity (Stealth) check to hide yourself, creatures have disadvantage on Wisdom (Perception) checks they make to see you if you remain motionless. You can still be detected through other means normally.</description>
+    </sheet>
+  </element>
+
+  <element name="Inugami" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_INUGAMI">
+    <supports>Obake</supports>
+    <description>
+      <p>Inugami are obake that resemble dogs, not only in appearance, but also in temperament. Inugami love to play, and are the most likely to live in large communities with other types of creatures. Inugami are fiercely loyal to their companions, and would never abandon a	friend in need.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Strength score increases by 1.<br />
+        <span class="feature">Dog Spirit.</span>Through sounds and gestures, you can communicate simple ideas to Small or smaller dogs and other canines. Your Transformation ability allows you to assume the form of a dog.<br />
+        <span class="feature">Keen Senses.</span>You have advantage on Wisdom (Perception) checks that rely on hearing or smell.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="strength" value="1" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_DOG_SPIRIT" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_KEEN_SENSES" />
+    </rules>
+  </element>
+
+  <element name="Dog Spirit" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_DOG_SPIRIT">
+    <description>
+      <p>Through sounds and gestures, you can communicate simple ideas to Small or smaller dogs and other canines. Your Transformation ability allows you to assume the form of a dog.</p>
+    </description>
+    <sheet>
+      <description>Through sounds and gestures, you can communicate simple ideas to Small or smaller dogs and other canines. Your Transformation ability allows you to assume the form of a dog.</description>
+    </sheet>
+  </element>
+
+  <element name="Keen Senses" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_KEEN_SENSES">
+    <description>
+      <p>You have advantage on Wisdom (Perception) checks that rely on hearing or smell.</p>
+    </description>
+    <sheet>
+      <description>You have advantage on Wisdom (Perception) checks that rely on hearing or smell.</description>
+    </sheet>
+  </element>
+
+  <element name="Jorogumo" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_JOROGUMO">
+    <supports>Obake</supports>
+    <description>
+      <p>The Jorogumo obake are those that isolate themselves from other creatures. While most other obake can pass for friendly, familiar creatures, the jorogumo’s true form looks like a	spider. While jorogumo are no more sinister or evil than other obake, they usually tend to hide their true form.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Dexterity score increases by 1.<br />
+        <span class="feature">Spider Spirit.</span>Through sounds and gestures, you can communicate simple ideas to Small or smaller spiders and other arachnids. Your Transformation ability allows you to assume the form of a spider.<br />
+        <span class="feature">Skittering Climber.</span>You gain a climb speed of 10 feet which allows you to climb dificult surfaces, including upside down on ceilings, without needing to make an ability check.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="dexterity" value="1" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_SPIDER_SPIRIT" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_SKITTERING_CLIMBER" />
+    </rules>
+  </element>
+
+  <element name="Spider Spirit" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_SPIDER_SPIRIT">
+    <description>
+      <p>Through sounds and gestures, you can communicate simple ideas to Small or smaller spiders and other arachnids. Your Transformation ability allows you to assume the form of a spider.</p>
+    </description>
+    <sheet>
+      <description>Through sounds and gestures, you can communicate simple ideas to Small or smaller spiders and other arachnids. Your Transformation ability allows you to assume the form of a spider.</description>
+    </sheet>
+  </element>
+  
+  <element name="Skittering Climber" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_SKITTERING_CLIMBER">
+    <description>
+      <p>You gain a climb speed of 10 feet which allows you to climb dificult surfaces, including upside down on ceilings, without needing to make an ability check.</p>
+    </description>
+    <sheet>
+      <description>You gain a climb speed of 10 feet which allows you to climb dificult surfaces, including upside down on ceilings, without needing to make an ability check.</description>
+    </sheet>
+    <rules>
+      <stat name="speed:climb" value="10" bonus="base" />
+    </rules>
+  </element>
+
+  <element name="KAWAUSO" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_KAWAUSO">
+    <supports>Obake</supports>
+    <description>
+      <p>The kawauso are otter-like obake, living on the shores of rivers and lakes. Playful and gregarious, the kawauso are always open to sharing their lives and homes with friendly travelers. Kawauso are trusting by nature, but those who cross a kawauso may find that they never encounter another, as news travels fast amongst a kawauso community, and memories are long.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Dexterity score increases by 1.<br />
+        <span class="feature">Otter Spirit.</span>Through sounds and gestures, you can communicate simple ideas to Small or smaller otters and other mustelids. Your Transformation ability allows you to assume the form of an otter.<br />
+        <span class="feature">Swift Swim.</span>You gain a swim speed of 30 feet.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="dexterity" value="1" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_OTTER_SPIRIT" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_SWIFT_SWIM" />
+    </rules>
+  </element>
+
+  <element name="Otter Spirit" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_OTTER_SPIRIT">
+    <description>
+      <p>Through sounds and gestures, you can communicate simple ideas to Small or smaller otters and other mustelids. Your Transformation ability allows you to assume the form of an otter.</p>
+    </description>
+    <sheet>
+      <description>Through sounds and gestures, you can communicate simple ideas to Small or smaller otters and other mustelids. Your Transformation ability allows you to assume the form of an otter.</description>
+    </sheet>
+  </element>
+
+  <element name="Swift Swim" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_SWIFT_SWIM">
+    <description>
+      <p>You gain a swim speed of 30 feet.</p>
+    </description>
+    <sheet>
+      <description>You gain a swim speed of 30 feet.</description>
+    </sheet>
+    <rules>
+      <stat name="speed:swim" value="30" bonus="base" />
+    </rules>
+  </element>
+
+  <element name="Kitsune" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_KITSUNE">
+    <supports>Obake</supports>
+    <description>
+      <p>Many stories have been written about the sly and cunning kitsune. Obake that resemble foxes, kitsune love to play tricks on others. Stories abound that kitsune get wiser as they grow older, and that they make faithful guardians and friends. There is probably truth to these stories, as kitsune have no problem living amongst other types of creatures, using their shapeshifting abilities to hide their true nature as an obake.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Intelligence score increases by 1.<br />
+        <span class="feature">Fox Spirit.</span>Through sounds and gestures, you can communicate simple ideas to Small or smaller foxes and other canines. Your Transformation ability allows you to assume the form of a fox.<br />
+        <span class="feature">Cunning Trickster.</span>You gain proiciency in the Deception skill.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="intelligence" value="1" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_FOX_SPIRIT" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_CUNNING_TRICKSTER" />
+    </rules>
+  </element>
+
+  <element name="Fox Spirit" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_FOX_SPIRIT">
+    <description>
+      <p>Through sounds and gestures, you can communicate simple ideas to Small or smaller foxes and other canines. Your Transformation ability allows you to assume the form of a fox.</p>
+    </description>
+    <sheet>
+      <description>Through sounds and gestures, you can communicate simple ideas to Small or smaller foxes and other canines. Your Transformation ability allows you to assume the form of a fox.</description>
+    </sheet>
+  </element>
+  
+  <element name="Cunning Trickster" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_CUNNING_TRICKSTER">
+    <description>
+      <p>You gain proiciency in the Deception skill.</p>
+    </description>
+    <sheet>
+      <description>You gain proiciency in the Deception skill.</description>
+    </sheet>
+    <rules>
+      <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_DECEPTION" />
+    </rules>
+  </element>
+
+  <element name="Mujina" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_MUJINA">
+    <supports>Obake</supports>
+    <description>
+      <p>Mujina are obake that resemble badgers, and have all the dogged determination and seriousness of their animal brethren. Stories exist of mujina	that have no faces, or who shapeshift into alluring women to seduce travelers and steal from or harm them. In truth, mujina form tight-knit communities amongst themselves and rarely reveal themselves to outsiders, living peacefully underneath the ground.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Strength score increases by 1.<br />
+        <span class="feature">Badger Spirit.</span>Through sounds and gestures, you can communicate simple ideas to Small or smaller badgers and other mustelids. Your Transformation ability allows you to assume the form of a badger.<br />
+        <span class="feature">Earth Walk.</span>You gain a burrow speed of 10 feet, allowing you to move through sand, earth, mud, or ice. You gain tremorsense to a range of 10 feet while burrowing.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="strength" value="1" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_BADGER_SPIRIT" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_EARTH_WALK" />
+    </rules>
+  </element>
+
+  <element name="Badger Spirit" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_BADGER_SPIRIT">
+    <description>
+      <p>Through sounds and gestures, you can communicate simple ideas to Small or smaller badgers and other mustelids. Your Transformation ability allows you to assume the form of a badger.</p>
+    </description>
+    <sheet>
+      <description>Through sounds and gestures, you can communicate simple ideas to Small or smaller badgers and other mustelids. Your Transformation ability allows you to assume the form of a badger.</description>
+    </sheet>
+  </element>
+
+  <element name="Earth Walk" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_EARTH_WALK">
+    <description>
+      <p>You gain a burrow speed of 10 feet, allowing you to move through sand, earth, mud, or ice. You gain tremorsense to a range of 10 feet while burrowing.</p>
+    </description>
+    <sheet>
+      <description>You gain a burrow speed of 10 feet, allowing you to move through sand, earth, mud, or ice. You gain tremorsense to a range of 10 feet while burrowing.</description>
+    </sheet>
+  </element>
+
+  <element name="Nekomata" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_NEKOMATA">
+    <supports>Obake</supports>
+    <description>
+      <p>Nekomata are obake that resemble cats, and typically live amongst other types of creatures. Nekomata have no qualms about shapeshifting into cat form for a free meal or affection when they want it. While many other obake keep away from other kinds of creatures, nekomata	exude a	calm conidence that allows them to go where they want, and to do what they please. Nekomata rarely fear repercussions for their actions, instead acting with impunity and authority.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Dexterity score increases by 1.<br />
+        <span class="feature">Cat Spirit.</span>Through sounds and gestures, you can communicate simple ideas to Small or smaller cats and other felines. Your Transformation ability allows you to assume the form of a cat.<br />
+        <span class="feature">Agile Climber.</span>You do not need to spend any extra movement in order to climb surfaces.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="dexterity" value="1" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_CAT_SPIRIT" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_AGILE_CLIMBER" />
+    </rules>
+  </element>
+
+  <element name="Cat Spirit" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_CAT_SPIRIT">
+    <description>
+      <p>Through sounds and gestures, you can communicate simple ideas to Small or smaller cats and other felines. Your Transformation ability allows you to assume the form of a cat.</p>
+    </description>
+    <sheet>
+      <description>Through sounds and gestures, you can communicate simple ideas to Small or smaller cats and other felines. Your Transformation ability allows you to assume the form of a cat.</description>
+    </sheet>
+  </element>
+  
+  <element name="Agile Climber" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_AGILE_CLIMBER">
+    <description>
+      <p>You do not need to spend any extra movement in order to climb surfaces.</p>
+    </description>
+    <sheet>
+      <description>You do not need to spend any extra movement in order to climb surfaces.</description>
+    </sheet>
+  </element>
+
+  <element name="Ningyo" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_NINGYO">
+    <supports>Obake</supports>
+    <description>
+      <p>The ningyo are probably the most reclusive and most misunderstood of all the obake, resembling fish living deep beneath the waves. Many describe the ningyo as malevolent beings, cursing land-dwellers and pulling them beneath the water to drown them if given half a chance. The truth is that most ningyo live so far from land that they never encounter other land-dwelling creatures at all.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Constitution score increases by 1.<br />
+        <span class="feature">Koi Spirit.</span>Through sounds and gestures, you can communicate simple ideas to Small or smaller koi and other fishes. Your Transformation ability allows you to assume the form of a koi.<br />
+        <span class="feature">Water Breathing.</span>You can breathe both underwater and on land. You gain a swim speed of 15 feet.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="constitution" value="1" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_KOI_SPIRIT" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_WATER_BREATHING" />
+    </rules>
+  </element>
+
+  <element name="Koi Spirit" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_KOI_SPIRIT">
+    <description>
+      <p>Through sounds and gestures, you can communicate simple ideas to Small or smaller koi and other fishes. Your Transformation ability allows you to assume the form of a koi.</p>
+    </description>
+    <sheet>
+      <description>Through sounds and gestures, you can communicate simple ideas to Small or smaller koi and other fishes. Your Transformation ability allows you to assume the form of a koi.</description>
+    </sheet>
+  </element>
+  
+  <element name="Agile Climber" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_AGILE_CLIMBER">
+    <description>
+      <p>You can breathe both underwater and on land. You gain a swim speed of 15 feet.</p>
+    </description>
+    <sheet>
+      <description>You can breathe both underwater and on land. You gain a swim speed of 15 feet.</description>
+    </sheet>
+    <rules>
+      <stat name="speed:swim" value="15" bonus="base" />
+    </rules>
+  </element>
+  
+</elements>

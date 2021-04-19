@@ -4,12 +4,12 @@
 		<name>Earth Kin</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
-		<update version="0.3">
+		<update version="0.4">
 			<file name="earth-kin.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/earth-kin.xml" />
 		</update>
 	</info>
 
-  <element name="Earth Kin" type="Race" source="Incarnate: The Last of the Lacers" id="ID_RACE_EARTH_KIN">
+  <element name="Earth Kin" type="Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACE_EARTH_KIN">
     <description>
       <p class="flavor">"Earth is the element of substance. The earth kin are diverse and strong. They are persistent and enduring." - General Ichiro, The Division of the Elements</p>
       <p>The earth kin are widespread and rooted in the world. No matter where you go, you'll usually be able to find an earth kin community taking hold and building traditions. Earth kin are the most likely to quickly build tight-knit societies that can be initially distrustful of others. But once an earth kin chooses to place their roots somewhere, it becomes a	powerful community of families built on the strength of those who founded it.</p>
@@ -70,16 +70,16 @@
       <stat name="strength" value="2" />
       <stat name="innate speed" value="30" bonus="base" />
       <grant type="Size" id="ID_SIZE_MEDIUM" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_PROTECTION_OF_EARTH" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_STANCE_OF_THE_MOUNTAIN" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_OBSERVANT" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_PROTECTION_OF_EARTH" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_STANCE_OF_THE_MOUNTAIN" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_OBSERVANT" />
       <grant type="Language" id="ID_LANGUAGE_COMMON" />
-      <!--grant type="Language" id="ID_LANGUAGE_SHI" /-->
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_EARTH_KIN_SUBRACE" />
+      <!--grant type="Language" id="ID_INCRN_LANGUAGE_SHI" /-->
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_EARTH_KIN_SUBRACE" />
     </rules>
   </element>
 
-  <element name="Protection of Earth" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_PROTECTION_OF_EARTH">
+  <element name="Protection of Earth" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_PROTECTION_OF_EARTH">
     <description>
       <p>You can reroll a	saving throw once with this trait, and regain the ability to do so when you complete a short or long rest. You must keep the new roll.</p>
     </description>
@@ -88,7 +88,7 @@
     </sheet>
   </element>
 
-  <element name="Stance of the Mountain" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_STANCE_OF_THE_MOUNTAIN">
+  <element name="Stance of the Mountain" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_STANCE_OF_THE_MOUNTAIN">
     <description>
       <p>You have advantage on checks and saving throws against being knocked prone.</p>
     </description>
@@ -97,7 +97,7 @@
     </sheet>
   </element>
 
-  <element name="Observant" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_OBSERVANT">
+  <element name="Observant" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_OBSERVANT">
     <description>
       <p>You gain proficiency in the perception skill.</p>
     </description>
@@ -109,7 +109,7 @@
     </rules>
   </element>
 
-  <element name="Earth Kin Subrace" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_EARTH_KIN_SUBRACE">
+  <element name="Earth Kin Subrace" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_EARTH_KIN_SUBRACE">
     <description>
       <p>Two groups of earth kin have emerged, although both would still see kinship in the other. The city dwellers have formed communities and live near mountains and along plains, forming their villages (or sometimes even great cities) through earthlacing, creating simple abodes and banding together. Desert dwellers live a more monastic lifestyle, never settling in one place for very long, using earthlacing to survive in harsh desert environments. Choose one of these subraces.</p>
     </description>
@@ -120,7 +120,7 @@
   </element>
 
 
-  <element name="City Dweller" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_CITY_DWELLER">
+  <element name="City Dweller" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_CITY_DWELLER">
     <supports>Earth Kin</supports>
     <description>
       <p>City dwellers form tight-knit communities which can seem unwelcoming to outsiders. These city kin are the essence of earth, strong and proud, unabashed and unyielding. But to those who are welcomed into their ranks, city kin can be the kindest, most gregarious people a creature can meet. Most city kin can be found in Qiang Shi or in Gongheguo City.</p>
@@ -133,12 +133,12 @@
     <sheet display="false" />
     <rules>
       <stat name="charisma" value="1" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_TOUGH_PEOPLE" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_RESILIENCE" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_TOUGH_PEOPLE" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_RESILIENCE" />
     </rules>
   </element>
 
-  <element name="Tough People" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_TOUGH_PEOPLE">
+  <element name="Tough People" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_TOUGH_PEOPLE">
     <description>
       <p>Without armor or a shield, your character's AC equals 12 + your Dexterity modiier.</p>
     </description>
@@ -156,7 +156,7 @@
 		</rules>
   </element>
 
-  <element name="Resilience" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_RESILIENCE">
+  <element name="Resilience" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_RESILIENCE">
     <description>
       <p>You have advantage on saving throws against poison, and you have resistance to poison damage.</p>
     </description>
@@ -165,7 +165,7 @@
     </sheet>
   </element>
 
-  <element name="Desert Dweller" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_DESERT_DWELLER">
+  <element name="Desert Dweller" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_DESERT_DWELLER">
     <supports>Earth Kin</supports>
     <description>
       <p>Most desert kin live in the Quoya Desert, able to withstand the blazing heat and whirling sand that make up the environment. While most would not choose to live in such a	location, desert kin live nomadic, wandering lifesyles, roaming the desert wastes and making use of what little resources reside there.</p>
@@ -178,12 +178,12 @@
     <sheet display="false" />
     <rules>
       <stat name="constitution" value="1" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_HARSH_SUN" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_HARDY" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_HARSH_SUN" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_HARDY" />
     </rules>
   </element>
 
-  <element name="Harsh Sun" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_HARSH_SUN">
+  <element name="Harsh Sun" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_HARSH_SUN">
     <description>
       <p>You do not become exhausted by the effects of natural hot environments.</p>
     </description>
@@ -192,22 +192,13 @@
     </sheet>
   </element>
   
-  <element name="Hardy" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_HARDY">
+  <element name="Hardy" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_HARDY">
     <description>
-      <p>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</p>
+      <p>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level. (Manually For Now)</p>
     </description>
     <sheet>
-      <description>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</description>
+      <description>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level. (Manually For Now)</description>
     </sheet>
-    <rules>
-      <stat name="hp:hardy earth kin:base" value="hp:calculation" />
-			<stat name="hp:hardy earth kin:modifier" value="1" />
-
-			<stat name="hp:hardy earth kin" value="hp:hardy earth kin:base" />
-			<stat name="hp:hardy earth kin" value="hp:hardy earth kin:modifier" />
-
-      <stat name="hp:calculation" value="hp:hardy earth kin" bonus="calculation" alt="Hardy (Earth Kin)" />
-    </rules>
   </element>
   
 </elements>

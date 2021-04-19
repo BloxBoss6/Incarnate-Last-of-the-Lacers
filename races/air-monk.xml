@@ -4,12 +4,12 @@
 		<name>Air Monk</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
-		<update version="0.4">
+		<update version="0.5">
 			<file name="air-monk.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/air-monk.xml" />
 		</update>
 	</info>
 
-  <element name="Air Monk" type="Race" source="Incarnate: The Last of the Lacers" id="ID_RACE_AIR_MONK">
+  <element name="Air Monk" type="Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACE_AIR_MONK">
     <description>
       <p class="flavor">"Air is the element of freedom. The air monks detached themselves from worldly concerns and found peace and freedom. Also, they apparently had pretty good senses of humor!" - General Ichiro, The Division of the Elements</p>
       <p>Of all people, air monks are most likely to have their true selves be hidden behind their culture. The society of the air monks is one of calm solitude high in the mountains of the world. A life of meditation, peace, and enlightenment.</p>
@@ -82,17 +82,17 @@
       <stat name="dexterity" value="2" />
       <stat name="innate speed" value="35" bonus="base" />
       <grant type="Size" id="ID_SIZE_MEDIUM" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_SWIFT" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_TUMBLER" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_SKY_LEGS" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_LIGHT_FOOT" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_SWIFT" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_TUMBLER" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_SKY_LEGS" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_LIGHT_FOOT" />
       <grant type="Language" id="ID_LANGUAGE_COMMON" />
-      <!--grant type="Language" id="ID_LANGUAGE_YAAYU" /-->
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_AIR_MONK_SUBRACE" />
+      <!--grant type="Language" id="ID_INCRN_LANGUAGE_YAAYU" /-->
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_AIR_MONK_SUBRACE" />
     </rules>
   </element>
 
-  <element name="Swift" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_SWIFT">
+  <element name="Swift" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_SWIFT">
     <description>
       <p>When you roll for initiative, a roll of 4 or lower counts as a 5 for you.</p>
     </description>
@@ -101,7 +101,7 @@
     </sheet>
   </element>
 
-  <element name="Tumbler" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_TUMBLER">
+  <element name="Tumbler" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_TUMBLER">
     <description>
       <p>You gain proficiency in the acrobatics skill.</p>
     </description>
@@ -113,7 +113,7 @@
     </rules>
   </element>
 
-  <element name="Sky Legs" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_SKY_LEGS">
+  <element name="Sky Legs" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_SKY_LEGS">
     <description>
       <p>You can travel normally in altitudes up to 10,000 feet, and are not disadvantaged by strong winds.</p>
     </description>
@@ -122,7 +122,7 @@
     </sheet>
   </element>
 
-  <element name="Light Foot" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_LIGHT_FOOT">
+  <element name="Light Foot" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_LIGHT_FOOT">
     <description>
       <p>Any distance you fall counts as though the fall were 20 feet shorter than it actually is.</p>
     </description>
@@ -131,7 +131,7 @@
     </sheet>
   </element>
 
-  <element name="Air Monk Subrace" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_AIR_MONK_SUBRACE">
+  <element name="Air Monk Subrace" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_AIR_MONK_SUBRACE">
     <description>
       <p>While the air monks are one people, two distinct types of personalities have emerged. Choose one of these subraces.</p>
     </description>
@@ -142,7 +142,7 @@
   </element>
 
 
-  <element name="Genobite" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_GENOBITE">
+  <element name="Genobite" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_GENOBITE">
     <supports>Air Monk</supports>
     <description>
       <p>Cenobites are known for their asceticism, living peacefully, high in the tallest mountains of the world, where secret air temples exist that almost cannot be found, except by those who already know they are there. Cenobites practice a	life of simple joy and frivolity, while adhering to airlacing traditions dating back thousands of years.</p>
@@ -155,12 +155,12 @@
     <sheet display="false" />
     <rules>
       <stat name="wisdom" value="1" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_DEEP_MEDITATION" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_NONVIOLENCE" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_DEEP_MEDITATION" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_NONVIOLENCE" />
     </rules>
   </element>
 
-  <element name="Deep Meditation" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_DEEP_MEDITATION">
+  <element name="Deep Meditation" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_DEEP_MEDITATION">
     <description>
       <p>You only need 4 hours of sleep in order to gain the beneit of a long rest.</p>
     </description>
@@ -169,7 +169,7 @@
     </sheet>
   </element>
 
-  <element name="Nonviolence" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_NONVIOLENCE">
+  <element name="Nonviolence" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_NONVIOLENCE">
     <description>
       <p>You can cast the <i>sanctuary</i> spell once with this trait, and regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for this spell.</p>
     </description>
@@ -181,7 +181,7 @@
     </rules>
   </element>
 
-  <element name="Nomad" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_NOMAD">
+  <element name="Nomad" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_NOMAD">
     <supports>Air Monk</supports>
     <description>
       <p>Most air nomads are born to cenobite parents, but the spirit of airlacing takes hold. This is a	known phenomena, and is seen as a	rite of passage for those who were born as nomads. Nomads take their monastic lifestyle on the road, traveling far and wide, and making acquaintances and allies all over the world.</p>
@@ -194,12 +194,12 @@
     <sheet display="false" />
     <rules>
       <stat name="charisma" value="1" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_ASCETIC_DIET" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_CHARMING_PERSONALITY" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_ASCETIC_DIET" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_CHARMING_PERSONALITY" />
     </rules>
   </element>
 
-  <element name="Ascetic Diet" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_ASCETIC_DIET">
+  <element name="Ascetic Diet" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_ASCETIC_DIET">
     <description>
       <p>You only need half as much food and water as a creature your size would normally need.</p>
     </description>
@@ -208,7 +208,7 @@
     </sheet>
   </element>
   
-  <element name="Charming Personality" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_CHARMING_PERSONALITY">
+  <element name="Charming Personality" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_CHARMING_PERSONALITY">
     <description>
       <p>You can cast the <i>charm</i> person spell as a 1st-level spell once with this trait, and regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for this spell.</p>
     </description>

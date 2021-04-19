@@ -4,12 +4,12 @@
 		<name>Fire Folk</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
-		<update version="0.5">
+		<update version="0.6">
 			<file name="fire-folk.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/fire-folk.xml" />
 		</update>
 	</info>
 
-  <element name="Fire Folk" type="Race" source="Incarnate: The Last of the Lacers" id="ID_RACE_FIRE_FOLK">
+  <element name="Fire Folk" type="Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACE_FIRE_FOLK">
     <description>
       <p class="flavor">"Fire is the element of power. The fire folk have desire and will, and the energy and drive to achieve what they want." - General Ichiro, The Division of the Elements</p>
       <p>The fire folk were seen as the warmongers of the world. While their personalities and convictions can be vibrant and passionate, this view of them is mostly unearned. Fire folk do have passion, but channel it into the pursuits shared by other races. Love, respect, community, family. Having a	zest for life is a hallmark of the fire folk, and it manifests in their daily lives.</p>
@@ -71,16 +71,16 @@
       <stat name="charisma" value="2" />
       <stat name="innate speed" value="30" bonus="base" />
       <grant type="Size" id="ID_SIZE_MEDIUM" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_POSITIVE_JING" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_BAD_REPUTATION" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_SAVAGE_ELEMENTS" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_POSITIVE_JING" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_BAD_REPUTATION" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_SAVAGE_ELEMENTS" />
       <grant type="Language" id="ID_LANGUAGE_COMMON" />
-      <!--grant type="Language" id="ID_LANGUAGE_KASAI" /-->
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_FIRE_FOLK_SUBRACE" />
+      <!--grant type="Language" id="ID_INCRN_LANGUAGE_KASAI" /-->
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_FIRE_FOLK_SUBRACE" />
     </rules>
   </element>
 
-  <element name="Positive Jing" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_POSITIVE_JING">
+  <element name="Positive Jing" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_POSITIVE_JING">
     <description>
       <p>When you roll a 1 on the d20 for an attack roll, you can reroll the die and must use the new roll.</p>
     </description>
@@ -89,7 +89,7 @@
     </sheet>
   </element>
 
-  <element name="Bad Reputation" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_BAD_REPUTATION">
+  <element name="Bad Reputation" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_BAD_REPUTATION">
     <description>
       <p>You gain proficiency in the intimidation skill.</p>
     </description>
@@ -101,7 +101,7 @@
     </rules>
   </element>
 
-  <element name="Savage Elements" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_SAVAGE_ELEMENTS">
+  <element name="Savage Elements" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_SAVAGE_ELEMENTS">
     <description>
       <p>When you score a crititcal hit with an elemental attack, you can roll one of the weapons damage dice one additional time and add it to the extra damage of the critical hit.</p>
     </description>
@@ -110,7 +110,7 @@
     </sheet>
   </element>
 
-  <element name="Fire Folk Subrace" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_FIRE_FOLK_SUBRACE">
+  <element name="Fire Folk Subrace" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_FIRE_FOLK_SUBRACE">
     <description>
       <p>While all fire folk share some qualities, a division in the use of firelacing caused a rift to appear, and eventually two separate groups emerged. Choose one of these subraces.</p>
     </description>
@@ -121,7 +121,7 @@
   </element>
 
 
-  <element name="Dragon" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_DRAGON">
+  <element name="Dragon" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_DRAGON">
     <supports>Fire Folk</supports>
     <description>
       <p>As a	 dragon folk, you see dragons as the mightiest and most powerful of creatures. Many dragon folk communities spring up around actual dragons, which they revere and worship as the original firelacers. Dragon folk are rare, typically hiding their presence from other races in order to live in devotion to the true firelacing masters.</p>
@@ -133,11 +133,11 @@
     <sheet display="false" />
     <rules>
       <stat name="dexterity" value="1" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_DRAGON_WORSHIPPER" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_DRAGON_WORSHIPPER" />
     </rules>
   </element>
 
-  <element name="Dragon Worshipper" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_DRAGON_WORSHIPPER">
+  <element name="Dragon Worshipper" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_DRAGON_WORSHIPPER">
     <description>
       <p>You can cast the <i>cause fear</i> spell as a 1st-level spell once with this trait, and regain the ability to do so when you finish a long rest. When you reach 3rd level, you can cast the calm emotions spell as a	2nd-level spell once with this trait, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</p>
     </description>
@@ -149,7 +149,7 @@
     </rules>
   </element>
 
-  <element name="Qilin" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_QILIN">
+  <element name="Qilin" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_QILIN">
     <supports>Fire Folk</supports>
     <description>
       <p>Qilin folk are by far the more prosperous and numerous. Qilin emerged as the more prominent of the two groups of fire folk, and many don’t believe that any dragon folk still exist. Qilin royalty advanced industry in an attempt to have a	forceful military power, but most qilin folk have distanced themselves from this, and lead simple and prosperous lives.</p>
@@ -162,12 +162,12 @@
     <sheet display="false" />
     <rules>
       <stat name="strength" value="1" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_QILIN_WEAPON" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_QILIN_ARMOR" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_QILIN_WEAPON" />
+      <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_QILIN_ARMOR" />
     </rules>
   </element>
 
-  <element name="Qilin Weapon Training" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_QILIN_WEAPON">
+  <element name="Qilin Weapon Training" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_QILIN_WEAPON">
     <description>
       <p>You have proficiency with the crossbow, halberd, longsword, shortsword, and spear.</p>
     </description>
@@ -183,7 +183,7 @@
     </rules>
   </element>
   
-  <element name="Qilin Armor Training" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_QILIN_ARMOR">
+  <element name="Qilin Armor Training" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_QILIN_ARMOR">
     <description>
       <p>You have proficiency with light and medium armor, and shields.</p>
     </description>
