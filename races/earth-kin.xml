@@ -4,7 +4,7 @@
 		<name>Earth Kin</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
-		<update version="0.1">
+		<update version="0.2">
 			<file name="earth-kin.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/earth-kin.xml" />
 		</update>
 	</info>
@@ -200,13 +200,13 @@
       <description>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</description>
     </sheet>
     <rules>
-      <stat name="hp:hardy earth kin:base" value="hp" />
+      <stat name="hp:hardy earth kin:base" value="hp:maximum" />
 			<stat name="hp:hardy earth kin:modifier" value="1" />
 
 			<stat name="hp:hardy earth kin" value="hp:hardy earth kin:base" />
 			<stat name="hp:hardy earth kin" value="hp:hardy earth kin:modifier" />
 
-      <stat name="hp:calculation" value="hp:hardy earth kin" bonus="calculation" alt="Hardy (Earth Kin)" />
+      <stat name="hp:maximum" value="hp:hardy earth kin" bonus="calculation" alt="Hardy (Earth Kin)" />
     </rules>
   </element>
   
