@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+    <info>
+        <update version="0.0.2">
+            <file name="source.xml"/>
+        </update>
+    </info>
+
+    <element name="Incarnate: Last of the Lacers" type="Source" source="DM's Guild" id="ID_DM_GUILD_SOURCE_INCARNATE">
+        <setters>
+            <set name="abbreviation">INCARN</set>
+            <set name="url">https://github.com/BloxBoss6/Incarnate-Last-of-the-Lacers</set>
+            <set name="author">Alex Tanner</set>
+            <set name="official">false</set>
+            <set name="supplement">false</set>
+            <set name="release">20210418</set>
+        </setters>
+    </element> 
+    
+</elements>

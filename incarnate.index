@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<index>
+	<info>
+		<name>Incarnate: Last of the Lacers</name>
+		<description>DM's Guild Content</description>
+		<author url="https://github.com/BloxBoss6/Incarnate-Last-of-the-Lacers">Alex Tanner</author>
+		<update version="0.1">
+			<file name="incarnate.index" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/incarnate.index" />
+		</update>
+	</info>
+	<files>
+		<file name="source.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/source.xml" />
+
+		<!-- RACES -->
+		<file name="fire-folk.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/fire-folk.xml" />
+	</files>
+</index>
