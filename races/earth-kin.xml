@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Earth Kin</name>
+		<description></description>
+		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
+		<update version="0.1">
+			<file name="earth-kin.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/earth-kin.xml" />
+		</update>
+	</info>
+
+  <element name="Earth Kin" type="Race" source="Incarnate: The Last of the Lacers" id="ID_RACE_EARTH_KIN">
+    <description>
+      <p class="flavor">"Earth is the element of substance. The earth kin are diverse and strong. They are persistent and enduring." - General Ichiro, The Division of the Elements</p>
+      <p>The earth kin are widespread and rooted in the world. No matter where you go, you'll usually be able to find an earth kin community taking hold and building traditions. Earth kin are the most likely to quickly build tight-knit societies that can be initially distrustful of others. But once an earth kin chooses to place their roots somewhere, it becomes a	powerful community of families built on the strength of those who founded it.</p>
+
+      <h4>HARDY AND TOUGH</h4>
+      <p>Of all the races, earth kin are the most physically powerful. Even female earth kin can be found with musculature and strength not found in other races. Earth kin use earthlacing to build communities out of stone, and must learn to physically work the earth to make their way in the world.</p>
+      <p class="indent">Earth kin skin tends to be fair in color, with more facial hair that other races. Most earth kin stand close to 6 feet tall, if not taller. As the widest-spread race, different kinds of clothing and hairstyles have appeared across the vast expanse of former earth kingdoms. In general, earth kin tend to favor greens and browns in their clothing, with bits of gold. Symbols are important to the earth kin, and are often found adorning their clothing to signify wealth, status, tradition, or family.</p>
+
+      <h4>DEEP ROOTS</h4>
+      <p>While the air monks can trace their traditions back for thousands of years, and the obake for even longer, earth kin are the people most likely to adhere strictly to those traditions. The earth kin like structure, and a	tradition gives semblance to how an earth kin may live their life. They aren't total slaves to tradition, and may ind ways around rules that they do not agree with. Earth kin are not completely conformist, but do enjoy a	life of fulilled expectations, where others act in a	way that doesn't surprise them, allowing them to temper their assumptions on how the world works.</p>
+
+      <h4>EXPANSIVE KINGDOM</h4>
+      <p>The earth kin had several expansive kingdoms, all centralized under the city of Qiang Shi. These other kingdoms, Chongtu and Dan, have since fallen and lie abandoned. Qiang Shi still stands, but is a shadow of its former glory. A great wall still surrounds the city, protecting those who make a	living within it.</p>
+      <p class="indent">Several existing earth kin families can trace lineage back to one of the earth royal families. In recent times, the largest concentrations of earth kin can be found in Qiang Shi, and in Gongheguo City.</p>
+
+      <h4>MAKING HOME ON THE ROAD</h4>
+      <p>Earth kin are not ones typically up for adventuring and seeing the world. While some earth kin do travel, these are typically merchants and artisans, whose lot in life includes moving around Kara-Tur. Earth kin leaving their homes entirely to see new lands are much more rare. While on the road, an earth kin is the most likely to want to make it feel like home. They may perform morning rituals, or say traditional words before each meal, or look for homely amenities in new towns.</p>
+
+      <h4>DEEP TIES, DEEP TRUST</h4>
+      <p>While earth kin can be seen as untrustworthy, it is more that an earth kin has a long history that a new person is not a part of, and it can take longer to regard that person as a friend. But to someone an earth kin deems a friend, there is no better source of love and acceptance.</p>
+      <p class="indent"><b>Fire Folk.</b> "I don't understand how fire folk society even functions. It seems like they change who the fire king or queen is constantly. I've met fire folk and they seem alright, but it's a strange culture."</p>
+      <p class="indent"><b>Air Monks.</b> "Air monks seem very structured in their tradition, but have you ever actually met one? They were a lot different than I thought they would be like. Constantly telling jokes, playing games, pulling pranks. Not what I expected from a monk."</p>
+      <p class="indent"><b>Water Clan.</b> "I have a lot of respect for the water clan. They live in the worst places in the world, and have made it work for them. They live off the land and have to use the environment for themselves, but they don't use it selfishly or just take from the land."</p>
+      <p class="indent"><b>Obake.</b> . "There are tons of stories of obake joining our communities as we've spread out, but I don't know how much faith I put in those. We live all over the place, and there's not a single established obake community anywhere that we've been able to find? Something's fishy about that."</p>
+
+      <h4>EARTH KIN NAMES</h4>
+      <p>Earth kin names are given at birth, and are usually passed down along family lines. An earth kin will almost always be named after a	family member, but almost never a	family member who is still alive. These names, while not "family names" in the traditional sense, are seen as family names in the sense that certain families see some given names as belonging to their families.</p>
+      <p class="indent">Earth kin in high society may have more traditional family names as well, and are some of the only people who might have two names. These family names can typically be traced back hundreds of years, and the history of each holder of that name is often well-documented.</p>
+      <p>
+        <span class="feature">Male Names:</span>Bai, Chang, Chao, Da, Eun, Fu, Guo, Gyeong, Heng, Hong, Huang, Hwan, Jia, Jiang, Jin, Kun, Kyung, Lim, Min, Mu, Myung, Qiang, Qiu, Ru, Seok, Shi, Su, Tai, Tu, Wei, Wen, Wu, Xiang, Xun, Yong, Zheng, Zhi, Zhong<br/>
+        <span class="feature">Female Names:</span>Ai, Bao, Bolorma, Bora, Cheng, Chun, Fen, Hai, Hua, Hye, Jian, Jing, Jong, Ju, Jun, Lan, Li, Lin, Ling, Mei, Ming, Ning, Nuan, Nuo, Ping, Qing, Rong, Shu, Shui, Shun, Sung, Xiu, Xue, Ya, Yeong, Yin, Yun, Zan, Zhou<br/>
+      </p>
+
+      <h4>EARTH KIN TRAITS</h4>
+      <p>Your earth kin character has a	number of qualities in common with all other earth kin.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Strength score increases by 2.<br />
+        <span class="feature">Age.</span>An earth kin reaches adulthood at the age of 18 and typically lives for less than a	century.<br />
+        <span class="feature">Alignment.</span>Earth kin lean towards being lawful.<br />
+        <span class="feature">Size.</span>Earth kin are typically taller than other human races. Your size is Medium.<br />
+        <span class="feature">Speed.</span>Your base walking speed is 30 feet.<br />
+        <span class="feature">Protection of Earth.</span>You can reroll a	saving throw once with this trait, and regain the ability to do so when you complete a short or long rest. You must keep the new roll.<br />
+        <span class="feature">Stance of the Mountain.</span>You have advantage on checks and saving throws against being knocked prone.<br />
+        <span class="feature">Observant.</span>You gain proiciency in the Perception skill.<br />
+        <span class="feature">Languages.</span>You can speak, read, and write Common and Shi.<br />
+        <span class="feature">Subrace.</span>Two groups of earth kin have emerged, although both would still see kinship in the other. The city dwellers have formed communities and live near mountains and along plains, forming their villages (or sometimes even great cities) through earthlacing, creating simple abodes and banding together. Desert dwellers live a more monastic lifestyle, never settling in one place for very long, using earthlacing to survive in harsh desert environments. Choose one of these subraces.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <setters>
+      <set name="names" type="male">Bai, Chang, Chao, Da, Eun, Fu, Guo, Gyeong, Heng, Hong, Huang, Hwan, Jia, Jiang, Jin, Kun, Kyung, Lim, Min, Mu, Myung, Qiang, Qiu, Ru, Seok, Shi, Su, Tai, Tu, Wei, Wen, Wu, Xiang, Xun, Yong, Zheng, Zhi, Zhong</set>
+      <set name="names" type="female">Ai, Bao, Bolorma, Bora, Cheng, Chun, Fen, Hai, Hua, Hye, Jian, Jing, Jong, Ju, Jun, Lan, Li, Lin, Ling, Mei, Ming, Ning, Nuan, Nuo, Ping, Qing, Rong, Shu, Shui, Shun, Sung, Xiu, Xue, Ya, Yeong, Yin, Yun, Zan, Zhou</set>
+      <set name="names-format">{{name}}</set>
+      <set name="height" modifier="2d8">5'5"</set>
+      <set name="weight" modifier="2d4">120 lb.</set>
+    </setters>
+    <rules>
+      <stat name="strength" value="2" />
+      <stat name="innate speed" value="30" bonus="base" />
+      <grant type="Size" id="ID_SIZE_MEDIUM" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_PROTECTION_OF_EARTH" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_STANCE_OF_THE_MOUNTAIN" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_OBSERVANT" />
+      <grant type="Language" id="ID_LANGUAGE_COMMON" />
+      <!--grant type="Language" id="ID_LANGUAGE_SHI" /-->
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_EARTH_KIN_SUBRACE" />
+    </rules>
+  </element>
+
+  <element name="Protection of Earth" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_PROTECTION_OF_EARTH">
+    <description>
+      <p>You can reroll a	saving throw once with this trait, and regain the ability to do so when you complete a short or long rest. You must keep the new roll.</p>
+    </description>
+    <sheet>
+      <description>You can reroll a	saving throw once with this trait, and regain the ability to do so when you complete a short or long rest. You must keep the new roll.</description>
+    </sheet>
+  </element>
+
+  <element name="Stance of the Mountain" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_STANCE_OF_THE_MOUNTAIN">
+    <description>
+      <p>You have advantage on checks and saving throws against being knocked prone.</p>
+    </description>
+    <sheet>
+      <description>You have advantage on checks and saving throws against being knocked prone.</description>
+    </sheet>
+  </element>
+
+  <element name="Observant" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_OBSERVANT">
+    <description>
+      <p>You gain proficiency in the perception skill.</p>
+    </description>
+    <sheet>
+      <description>You gain proficiency in the perception skill.</description>
+    </sheet>
+    <rules>
+      <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_PERCEPTION" />
+    </rules>
+  </element>
+
+  <element name="Earth Kin Subrace" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_EARTH_KIN_SUBRACE">
+    <description>
+      <p>Two groups of earth kin have emerged, although both would still see kinship in the other. The city dwellers have formed communities and live near mountains and along plains, forming their villages (or sometimes even great cities) through earthlacing, creating simple abodes and banding together. Desert dwellers live a more monastic lifestyle, never settling in one place for very long, using earthlacing to survive in harsh desert environments. Choose one of these subraces.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <select type="Sub Race" name="Earth Kin Subrace" supports="Earth Kin" />
+    </rules>
+  </element>
+
+
+  <element name="City Dweller" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_CITY_DWELLER">
+    <supports>Earth Kin</supports>
+    <description>
+      <p>City dwellers form tight-knit communities which can seem unwelcoming to outsiders. These city kin are the essence of earth, strong and proud, unabashed and unyielding. But to those who are welcomed into their ranks, city kin can be the kindest, most gregarious people a creature can meet. Most city kin can be found in Qiang Shi or in Gongheguo City.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Charisma score increases by 1.<br />
+        <span class="feature">Tough People.</span>Without armor or a shield, your character's AC equals 12 + your Dexterity modiier.<br />
+        <span class="feature">Resilience.</span>You have advantage on saving throws against poison, and you have resistance to poison damage.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="charisma" value="1" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_TOUGH_PEOPLE" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_RESILIENCE" />
+    </rules>
+  </element>
+
+  <element name="Tough People" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_TOUGH_PEOPLE">
+    <description>
+      <p>Without armor or a shield, your character's AC equals 12 + your Dexterity modiier.</p>
+    </description>
+    <sheet>
+			<description>Without armor or a shield, your character's AC equals {{ac:tough people earth kin}}.</description>
+		</sheet>
+		<rules>
+			<stat name="ac:tough people earth kin:base" value="12" />
+			<stat name="ac:tough people earth kin:dexterity" value="dexterity:modifier" />
+
+			<stat name="ac:tough people earth kin" value="ac:tough people earth kin:base" />
+			<stat name="ac:tough people earth kin" value="ac:tough people earth kin:dexterity" />
+
+			<stat name="ac:calculation" value="ac:tough people earth kin" bonus="calculation" equipped="[armor:none],[shield:none]" alt="Tough People (Earth Kin)" />
+		</rules>
+  </element>
+
+  <element name="Resilience" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_RESILIENCE">
+    <description>
+      <p>You have advantage on saving throws against poison, and you have resistance to poison damage.</p>
+    </description>
+    <sheet>
+      <description>You have advantage on saving throws against poison, and you have resistance to poison damage.</description>
+    </sheet>
+  </element>
+
+  <element name="Desert Dweller" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_DESERT_DWELLER">
+    <supports>Earth Kin</supports>
+    <description>
+      <p>Most desert kin live in the Quoya Desert, able to withstand the blazing heat and whirling sand that make up the environment. While most would not choose to live in such a	location, desert kin live nomadic, wandering lifesyles, roaming the desert wastes and making use of what little resources reside there.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Constitution score increases by 1.<br />
+        <span class="feature">Harsh Sun.</span>You do not become exhausted by the effects of natural hot environments.<br />
+        <span class="feature">Hardy.</span>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="constitution" value="1" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_HARSH_SUN" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_HARDY" />
+    </rules>
+  </element>
+
+  <element name="Harsh Sun" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_HARSH_SUN">
+    <description>
+      <p>You do not become exhausted by the effects of natural hot environments.</p>
+    </description>
+    <sheet>
+      <description>You do not become exhausted by the effects of natural hot environments.</description>
+    </sheet>
+  </element>
+  
+  <element name="Hardy" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_HARDY">
+    <description>
+      <p>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</p>
+    </description>
+    <sheet>
+      <description>Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.</description>
+    </sheet>
+    <rules>
+      <stat name="hp:hardy earth kin:base" value="hp" />
+			<stat name="hp:hardy earth kin:modifier" value="1" />
+
+			<stat name="hp:hardy earth kin" value="hp:hardy earth kin:base" />
+			<stat name="hp:hardy earth kin" value="hp:hardy earth kin:modifier" />
+
+      <stat name="hp:calculation" value="hp:hardy earth kin" bonus="calculation" alt="Hardy (Earth Kin)" />
+    </rules>
+  </element>
+  
+</elements>

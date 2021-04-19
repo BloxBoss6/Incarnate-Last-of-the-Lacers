@@ -4,7 +4,7 @@
 		<name>Air Monk</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
-		<update version="0.3">
+		<update version="0.4">
 			<file name="air-monk.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/air-monk.xml" />
 		</update>
 	</info>
@@ -39,7 +39,7 @@
       <h5 class="caption">THE GREATER SANCTUARIES</h5>
 			<table class="class-features">
 				<thead>
-					<tr><td class="col-10">Temple</td><td class="left">Location</td></tr>
+					<tr><td class="col-20">Temple</td><td class="left">Location</td></tr>
 				</thead>
 				<tr><td> Northern</td><td class="left">Mountains of Amara</td></tr>
 				<tr><td> Eastern</td><td class="left">Paikai Island</td></tr>
