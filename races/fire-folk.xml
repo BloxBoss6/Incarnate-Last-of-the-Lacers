@@ -4,7 +4,7 @@
 		<name>Fire Folk</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
-		<update version="0.3">
+		<update version="0.4">
 			<file name="fire-folk.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/fire-folk.xml" />
 		</update>
 	</info>
@@ -48,7 +48,7 @@
       <p>Fire folk all have some things in common due to their shared heritage.</p>
       <p>
         <span class="feature">Ability Score Increase.</span>Your Charsima score increases by 2.<br />
-        <span class="feature">Age.</span>. Fire folk reach adulthood at the age of 18 and typically live for less than a century.<br />
+        <span class="feature">Age.</span>Fire folk reach adulthood at the age of 18 and typically live for less than a century.<br />
         <span class="feature">Alignment.</span>Fire folk represent a widely diverse group of people. Some enjoy being lawful and following traditions; yet the spirit of irelacing leans towards chaos.<br />
         <span class="feature">Size.</span>Fire folk are typically between 5 and 6 feet tall. Your size is Medium<br />
         <span class="feature">Speed.</span>Your base walking speed is 30 feet.<br />
@@ -75,7 +75,7 @@
       <grant type="Racial Trait" id="ID_RACIAL_TRAIT_BAD_REPUTATION" />
       <grant type="Racial Trait" id="ID_RACIAL_TRAIT_SAVAGE_ELEMENTS" />
       <grant type="Language" id="ID_LANGUAGE_COMMON" />
-      <grant type="Language" id="ID_LANGUAGE_KASAI" />
+      <!--grant type="Language" id="ID_LANGUAGE_KASAI" /-->
       <grant type="Racial Trait" id="ID_RACIAL_TRAIT_FIRE_FOLK_SUBRACE" />
     </rules>
   </element>
@@ -101,7 +101,7 @@
     </rules>
   </element>
 
-  <element name="Savage Elements" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_SAVAGE_ELEMENTS">
+  <element name="Savage Elements" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_SAVAGE_ELEMENTS">
     <description>
       <p>When you score a crititcal hit with an elemental attack, you can roll one of the weapons damage dice one additional time and add it to the extra damage of the critical hit.</p>
     </description>

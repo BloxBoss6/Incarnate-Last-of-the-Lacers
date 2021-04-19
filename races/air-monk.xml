@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Air Monk</name>
+		<description></description>
+		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
+		<update version="0.1">
+			<file name="air-monk.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/air-monk.xml" />
+		</update>
+	</info>
+
+  <element name="Air Monk" type="Race" source="Incarnate: The Last of the Lacers" id="ID_RACE_AIR_MONK">
+    <description>
+      <p class="flavor">"Air is the element of freedom. The air monks detached themselves from worldly concerns and found peace and freedom. Also, they apparently had pretty good senses of humor!" - General Ichiro, The Division of the Elements</p>
+      <p>Of all people, air monks are most likely to have their true selves be hidden behind their culture. The society of the air monks is one of calm solitude high in the mountains of the world. A life of meditation, peace, and enlightenment.</p>
+      <p class="indent">The truth is that the air monks are great lovers of fun and games. To one who simply visited an air monk sanctuary, and who saw the monks on their best behavior, they might suspect that the life of an air monk would be quite boring. Quite the opposite, the visitor would likely be missing pranks being pulled, variations in traditional songs made only to cause others to giggle, and the true passion for life that all air monks share. As the element of freedom, the air monks don't allow themselves to become too restricted by their traditions and culture, even as they try to adhere to it.</p>
+
+      <h4>SMALL STATURE, BIG PERSONALITY</h4>
+      <p>Air monks typically appear to be physically weak. Air monks are shorter and thinner than most other races, having the appearance of physical vulnerability. Quite the opposite, however, air monks live in some of the most inhospitable places in the world, and are well-equipped to deal with such adversity, where others might suffer.</p>
+      <p class="indent">Air monks are usually around 5 feet tall, and have skin that ranges from fair to dark. Air monks have varying hairstyles, but very important to their culture is the bald heads of airlacing masters. To form a	closer connection with the air, master lacers will shave their heads, often tattooing culturally important symbols onto their skin. Airlacers like to wear light orange and yellow robes, and don't typically have more than a single type of outit that they wear.</p>
+
+      <h4>LONG TRADITIONS</h4>
+      <p>While the air monks are known and encountered occasionally by others, they are the most secluded of the human races. As an entire society made up of simple monks, there is almost no industry to speak of amongst the air monks. The only things created by air monks are those that are needed for daily life (ceramics, bowls and utensils, etc.), and simple trinkets with spiritual signiicance. It would be very rare to encounter an air monk curio anywhere aside from the temple where it was made, or on the person for whom the monk created it.</p>
+
+      <h4>LOST CIVILIZATION</h4>
+      <p>The fire folk typically live for less than a century. Of all the societies, fire folk could be considered the most changing. The rulers of the empire succeeded rapidly, and while the succession of the throne was typically handed down along familial lines, it was not uncommon for others to take over the throne for their own families. In recent times, the empire has fallen to the point where many families claim kinship with royal lines, but none have any true authority over other fire folk.</p>
+      <p class="indent">Firelacing comes from the fire folk, and tradition dictates that the ability was originally learned from dragons. Dragons are seen as the original firelacers, and fire folk revere these powerful creatures in daily life. Firelacing masters spend years learning control over their abilities. Amateur firelacers might use their abilities indiscriminately, but only a	master will be able to exert true control over their fire, using it not only for its power, but for its soothing light.</p>
+
+      <h4>TRADITIONS ON THE ROAD</h4>
+      <p>All air monks are trained in their temples in simple ascetic life, but any air monk can choose to hit the open road. Not abandoning their temple life, but taking its teachings and traditions abroad, spreading knowledge and culture with them. Air monks who choose to leave are not shunned by their society, but instead are seen as important messengers, bringing the customs and culture of the air monks to other peoples who have no other way to learn about them.</p>
+
+      <h4>AIR MONK NAMES</h4>
+      <p>Air monks receive their names at birth. These names are taken from oral tradition and history, and each name has an important meaning. Some are the names of spirits in creation stories or other lore, while others are more recent inventions. Many air monk names also feature repeating vowels, often called an "extra	bit of love" from the monk's mother.</p>
+      <p>
+        <span class="feature">Male Names:</span>Agni, Ajeet, Amar, Anaand, Anik, Anuuj, Ashok, Baldev, Basu, Brahma, Chander, Deepak, Deo, Girish, Gopinath, Hari, Isha, Jai, Kailash, Kamaal, Mahavir, Navin, Oom, Rajiv, Rama, Rohan, Saral, Shyam, Sumaan, Vikram<br/>
+        <span class="feature">Female Names:</span>: Abha, Abilasha, Amaala, Anandi, Anima, Ashiwarya, Avani, Chanda, Damayanti, Darshanaa, Devika, Drishti, Gauri, Iila, Jayanti, Jyothi, Kali, Lakshmi, Lila, Malini, Minali, Pallaavi, Priya, Reshmi, Srii, Vimala, Yamii<br/>
+      </p>
+
+      <h5 class="caption">THE BARD</h5>
+			<table class="class-features">
+				<thead>
+					<tr><td class="col-5">Temple</td><td class="left">Location</td></tr>
+				</thead>
+				<tr><td> Northern</td><td class="left">Mountains of Amara</td></tr>
+				<tr><td> Eastern</td><td class="left">Paikai Island</td></tr>
+				<tr><td> Southern</td><td class="left">Himasla Mountains</td></tr>
+				<tr><td> Western</td><td class="left">Storm Hours</td></tr>
+			</table>
+
+      <h4>ASCETICISM AND HEDONISM</h4>
+      <p>While air monks practice simple life in their temples, they are no strangers to life's pleasures, and think that one must experience life fully to be able to pass on to the Spirit World in a state of enlightenment. How they deal with other races depends on the reactions they get upon meeting.</p>
+      <p class="indent"><b>Fire Folk.</b> "Everyone says the fire folk are always fighting, but I've never seen it. All the fire folk I've met have been warm and inviting. And their festivals are the best! Honestly we should start having some of those festivals back at the temple!"</p>
+      <p class="indent"><b>Water Clan.</b> "People from the water clan can be initially frosty, and not just because they're from the north pole! They can be a little closed off and untrusting. But once you really get to know them, they'll come to regard you as closely as they do their own families."</p>
+      <p class="indent"><b>Earth Kin.</b> "Everyone says the earth kin don't know how to have fun, but that's just not true. It's just that they need structure, but coming from temple life, structure can add a lot to fun. Rules help control the fun!"</p>
+      <p class="indent"><b>Obake.</b> "I think it would be amazing to meet an obake. Between you and me, I think I did meet one once. There was a new guy in town, coming in with all of these stories of his travels and adventures. The weird part is that the tanuki statue that used to stand in the middle of town disappeared the very same day he appeared..."</p>
+
+      <h4>AIR MONK TRAITS</h4>
+      <p>As an air monk, you share some similarities with other monks.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Dexterity score increases by 2.<br />
+        <span class="feature">Age.</span> An air monk reaches adulthood at the age of 18 and typically live for about a	century.<br />
+        <span class="feature">Alignment.</span>. Air monks usually live in ritualistic peace in their temples while having a vibrant and chaotic approach to life, so their spirits tend toward neutrality.<br />
+        <span class="feature">Size.</span>e. Air monks are typically shorter than other human races. Your size is Medium.<br />
+        <span class="feature">Speed.</span>Your base walking speed is 35 feet.<br />
+        <span class="feature">Swift.</span>When you roll for initiative, a roll of 4 or lower counts as a 5 for you.<br />
+        <span class="feature">Tumbler.</span>You gain proficiency in the acrobatics skill.<br />
+        <span class="feature">Sky Legs.</span>You can travel normally	in altitudes up to 10,000 feet, and are not disadvantaged by strong winds.<br />
+        <span class="feature">Light Foot.</span>Any distance you fall counts as though the fall were 20 feet shorter than it actually is.<br />
+        <span class="feature">Languages.</span>You can speak, read, and write Common and Vaayu.<br />
+        <span class="feature">Subrace.</span>While the air monks are one people, two distinct types of personalities have emerged. The cenobites are happy to live peaceful, simple lives, high in the air temples of the world. The nomads are the opposite, completely susceptible to wanderlust, wanting to see and discover the world. Cenobites can travel as well, but typically only travel to other air temples to share knowledge and wisdom, while nomads scour the world in search of friendship and fun. Choose one of these subraces.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <setters>
+      <set name="names" type="male">Agni, Ajeet, Amar, Anaand, Anik, Anuuj, Ashok, Baldev, Basu, Brahma, Chander, Deepak, Deo, Girish, Gopinath, Hari, Isha, Jai, Kailash, Kamaal, Mahavir, Navin, Oom, Rajiv, Rama, Rohan, Saral, Shyam, Sumaan, Vikram</set>
+      <set name="names" type="female">Abha, Abilasha, Amaala, Anandi, Anima, Ashiwarya, Avani, Chanda, Damayanti, Darshanaa, Devika, Drishti, Gauri, Iila, Jayanti, Jyothi, Kali, Lakshmi, Lila, Malini, Minali, Pallaavi, Priya, Reshmi, Srii, Vimala, Yamii</set>
+      <set name="names-format">{{name}}</set>
+      <set name="height" modifier="2d8">4'5"</set>
+      <set name="weight" modifier="2d4">100 lb.</set>
+    </setters>
+    <rules>
+      <stat name="dexterity" value="2" />
+      <stat name="innate speed" value="35" bonus="base" />
+      <grant type="Size" id="ID_SIZE_MEDIUM" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_SWIFT" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_TUMBLER" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_SKY_LEGS" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_LIGHT_FOOT" />
+      <grant type="Language" id="ID_LANGUAGE_COMMON" />
+      <!--grant type="Language" id="ID_LANGUAGE_YAAYU" /-->
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_AIR_MONK_SUBRACE" />
+    </rules>
+  </element>
+
+  <element name="Swift" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_SWIFT">
+    <description>
+      <p>When you roll for initiative, a roll of 4 or lower counts as a 5 for you.</p>
+    </description>
+    <sheet>
+      <description>When you roll for initiative, a roll of 4 or lower counts as a 5 for you.</description>
+    </sheet>
+  </element>
+
+  <element name="Tumbler" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_TUMBLER">
+    <description>
+      <p>You gain proficiency in the acrobatics skill.</p>
+    </description>
+    <sheet>
+      <description>You gain proficiency in the acrobatics skill.</description>
+    </sheet>
+    <rules>
+      <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_ACROBATICS" />
+    </rules>
+  </element>
+
+  <element name="Sky Legs" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_SKY_LEGS">
+    <description>
+      <p>You can travel normally in altitudes up to 10,000 feet, and are not disadvantaged by strong winds.</p>
+    </description>
+    <sheet>
+      <description>You can travel normally in altitudes up to 10,000 feet, and are not disadvantaged by strong winds.</description>
+    </sheet>
+  </element>
+
+  <element name="Light Foot" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_LIGHT_FOOT">
+    <description>
+      <p>Any distance you fall counts as though the fall were 20 feet shorter than it actually is.</p>
+    </description>
+    <sheet>
+      <description>Any distance you fall counts as though the fall were 20 feet shorter than it actually is.</description>
+    </sheet>
+  </element>
+
+  <element name="Air Monk Subrace" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_AIR_MONK_SUBRACE">
+    <description>
+      <p>While the air monks are one people, two distinct types of personalities have emerged. Choose one of these subraces.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <select type="Sub Race" name="Air Monk Subrace" supports="Air Monk" />
+    </rules>
+  </element>
+
+
+  <element name="Genobite" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_GENOBITE">
+    <supports>Air Monk</supports>
+    <description>
+      <p>Cenobites are known for their asceticism, living peacefully, high in the tallest mountains of the world, where secret air temples exist that almost cannot be found, except by those who already know they are there. Cenobites practice a	life of simple joy and frivolity, while adhering to airlacing traditions dating back thousands of years.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Wisdom score increases by 1.<br />
+        <span class="feature">Deep Meditation.</span>You only need 4 hours of sleep in order to gain the beneit of a	long rest.<br />
+        <span class="feature">Nonviolence.</span>You can cast the <i>sanctuary</i> spell once with this trait, and regain the ability to do so when you finish a	long rest. Wisdom is your spellcasting ability for this spell.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="wisdom" value="1" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_DEEP_MEDITATION" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_NONVIOLENCE" />
+    </rules>
+  </element>
+
+  <element name="Deep Meditation" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_DEEP_MEDITATION">
+    <description>
+      <p>You only need 4 hours of sleep in order to gain the beneit of a long rest.</p>
+    </description>
+    <sheet>
+      <description>You only need 4 hours of sleep in order to gain the beneit of a long rest.</description>
+    </sheet>
+  </element>
+
+  <element name="Nonviolence" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_NONVIOLENCE">
+    <description>
+      <p>You can cast the <i>sanctuary</i> spell once with this trait, and regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for this spell.</p>
+    </description>
+    <sheet>
+      <description>You can cast the <i>sanctuary</i> spell once with this trait, and regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for this spell.</description>
+    </sheet>
+    <rules>
+      <grant type="Spell" id="ID_PHB_SPELL_SANCTUARY" />
+    </rules>
+  </element>
+
+  <element name="Nomad" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_NOMAD">
+    <supports>Air Monk</supports>
+    <description>
+      <p>Most air nomads are born to cenobite parents, but the spirit of airlacing takes hold. This is a	known phenomena, and is seen as a	rite of passage for those who were born as nomads. Nomads take their monastic lifestyle on the road, traveling far and wide, and making acquaintances and allies all over the world.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Charisma score increases by 1.<br />
+        <span class="feature">Ascetic Diet.</span>You only need half as much food and water as a creature your size would normally need.<br />
+        <span class="feature">Charming Personality.</span>You can cast the <i>charm</i> person spell as a 1st-level spell once with this trait, and regain the ability to do so when you finish a	long rest. Wisdom is your spellcasting ability for this spell.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="charisma" value="1" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_ASCETIC_DIET" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_CHARMING_PERSONALITY" />
+    </rules>
+  </element>
+
+  <element name="Ascetic Diet" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_ASCETIC_DIET">
+    <description>
+      <p>You only need half as much food and water as a creature your size would normally need.</p>
+    </description>
+    <sheet>
+      <description>You only need half as much food and water as a creature your size would normally need.</description>
+    </sheet>
+  </element>
+  
+  <element name="Charming Personality" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_CHARMING_PERSONALITY">
+    <description>
+      <p>You can cast the <i>charm</i> person spell as a 1st-level spell once with this trait, and regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for this spell.</p>
+    </description>
+    <sheet>
+      <description>You can cast the <i>charm</i> person spell as a 1st-level spell once with this trait, and regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for this spell.</description>
+    </sheet>
+    <rules>
+      <grant type="Spell" id="ID_PHB_SPELL_CHARM_PERSON" />
+    </rules>
+  </element>
+  
+</elements>

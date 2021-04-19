@@ -4,7 +4,7 @@
 		<name>Incarnate: Last of the Lacers</name>
 		<description>DM's Guild Content</description>
 		<author url="https://github.com/BloxBoss6/Incarnate-Last-of-the-Lacers">Alex Tanner</author>
-		<update version="0.0.4">
+		<update version="0.0.5">
 			<file name="incarnate.index" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/incarnate.index" />
 		</update>
 	</info>
@@ -13,5 +13,6 @@
 
 		<!-- RACES -->
 		<file name="fire-folk.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/fire-folk.xml" />
+		<file name="air-monk.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/air-monk.xml" />
 	</files>
 </index>
