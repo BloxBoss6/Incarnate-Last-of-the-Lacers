@@ -4,7 +4,7 @@
 		<name>Fire Folk</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
-		<update version="0.4">
+		<update version="0.5">
 			<file name="fire-folk.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/fire-folk.xml" />
 		</update>
 	</info>
@@ -152,7 +152,7 @@
   <element name="Qilin" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_QILIN">
     <supports>Fire Folk</supports>
     <description>
-      <p>Qilin folk are by far the more prosperous and numerous. Qilin emerged as the more prominent of the two groups of fire folk, and many don’t believe that any dragon folk still exist. Qilin royalty advanced industry in an attempt to have a	forceful military power, but most qilin folk have distanced themselves from this, and lead simple and prosperous lives</p>
+      <p>Qilin folk are by far the more prosperous and numerous. Qilin emerged as the more prominent of the two groups of fire folk, and many don’t believe that any dragon folk still exist. Qilin royalty advanced industry in an attempt to have a	forceful military power, but most qilin folk have distanced themselves from this, and lead simple and prosperous lives.</p>
       <p>
         <span class="feature">Ability Score Increase.</span>Your Strength score increases by 1.<br />
         <span class="feature">Qilin Weapon Training.</span>You have proficiency with the crossbow, halberd, longsword, shortsword, and spear.<br />

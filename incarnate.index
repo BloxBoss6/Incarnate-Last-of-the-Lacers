@@ -14,5 +14,6 @@
 		<!-- RACES -->
 		<file name="fire-folk.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/fire-folk.xml" />
 		<file name="air-monk.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/air-monk.xml" />
+		<file name="water-clan.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/water-clan.xml" />
 	</files>
 </index>

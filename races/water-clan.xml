@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Water Clan</name>
+		<description></description>
+		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
+		<update version="0.1">
+			<file name="water-clan.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/water-clan.xml" />
+		</update>
+	</info>
+
+  <element name="Water Clan" type="Race" source="Incarnate: The Last of the Lacers" id="ID_RACE_WATER_CLAN">
+    <description>
+      <p class="flavor">"Water is the element of change. The people of the water clan are capable of adapting to many things. They have a deep sense of community and love that holds them together through anything." - General Ichiro, The Division of the Elements</p>
+      <p>Adaptable and proud, with a long tradition of enduring the harshest climates imaginable. Perched on the edge of the world, making the land and seas work for them. Welcoming of change and of outsiders, known for sharing hospitality with those who may end up on their shores. These are the things that tie the water clan together across the entire world.</p>
+
+      <h4>HAIL AND HALE</h4>
+      <p>Known for their versatility and malleability, the water clan includes members in many corners of the world. From the frigid north pole to muggy swamps, the water clan has settled in climates that would be inaccessible to other races, by learning to make their environments work for them.</p>
+      <p class="indent">Most members of the water clan stand between 5 and 6 feet tall. Their skin is usually darker than that of other human races, ranging from dark brown to a	deep tan. Both men and women alike wear their hair in longer styles, pulling it into traditional ponytails or knots. The water clan can typically be found wearing shades of blue, adopting the color in connection with their afinity for waterlacing.</p>
+
+      <h4>TIDES AND TRADITIONS</h4>
+      <p>Like most human races, a water clan member's individual lifespan is most often less than a century. However, the traditions and ideals of the water clan have stood the test of time, lowing and changing as society changes. With a long oral tradition of story-telling, tales of the water clan are passed down through generations, imparting wisdom and guidance as the clan continues to evolve.</p>
+      <p class="indent">Most waterlacers hail from the water clan. Waterlacing is seen as an exclusive ability of the water clan, and its practices and forms are seen as paramount to the cotinuation of the water clan. Many waterlacing masters travel around the world, visiting as many water clan tribes as they can, learning as much about the various applications of waterlacing as they can. While nonlacing water clan warriors dress in polar animal motifs and use makeup to intimidate their enemies, waterlacing ighters are typically more subdued, dressing in simple clothes and allowing their abilities to speak for them.</p>
+
+      <h4>FRINGES OF SOCIETY</h4>
+      <p>The people of the water clan are the most likely to be those who live in the harshest of environments. The largest groups of peoples from the water clan currently reside on what remains of the Great Glacier after its retreat, in the Vast Swamp, and in Gongheguo City. The people of the water clan call these places home, and rarely encounter others. Only those members who seek out adventure and travel are likely to have many meaningful interactions with other peoples. This makes the trinkets, weapons, and crafts of the water clan exceedingly rare in other areas of the world, and highly sought-after prizes.</p>
+
+      <h4>TRUSTING AND PROUD</h4>
+      <p>The water clan does try to be welcoming and inclusive to others, while still setting themselves apart from other groups of people. The water clan trusts easily because they can endure the sting of betrayal more easily than others, and are often pleasantly surprised by those who genuinely deserve their faith.</p>
+      <p class="indent"><b>Fire Folk.</b> "The fire folk have a bad reputation, but only some of it is deserved. They can be gruff and quick to anger, but they're also just naturally boisterous and a lot warmer than people might expect."</p>
+      <p class="indent"><b>Air Monks.</b>  "Air monks are great fun and fast friends. They've always got a great quip or interesting story to tell. Not being able to eat meat, though? I'm not sure about that."</p>
+      <p class="indent"><b>Earth Kin.</b> "The earth kin are so warm and welcoming. They don't have as much of a warrior tradition as we have, but not everyone needs to be a warrior."</p>
+      <p class="indent"><b>Obake.</b> "The obake are seldom heard from and seen even less. There are stories about obake who can waterlace as well, and who live under the ocean or under rivers. Are they lost tribes of the water clan, transformed into animal shapes?"</p>
+
+      <h4>TRAVEL AND ADVENTURE</h4>
+      <p>The people of the water clan usually form tight-knit communities that rarely venture beyond their own borders. Those of the water clan who do choose to travel are typically warriors, artisans, or traders. These members of the water clan still stick to the oceans and seas, keeping a	connection with the water whether they are waterlacers or not. Warriors may be attempting to keep peace between different factions of the water clan, or amongst different nations. Artisans and traders know the value of quality water clan goods, and know what it takes to make a	profit from them.</p>      
+
+      <h4>WATER CLAN NAMES</h4>
+      <p>Water clan names are bestowed on a	 child by its parents at birth. Due to the water clan's long oral history, many names are reused through the generations. Children are often named after famous warriors, hunters, or spirits in water clan lore. Water clan names favor hard consonants, especially "k" and "q" sounds.</p>
+      <p class="indent">Most members of the water clan do not have family names, relying only on a single name to identify themselves. Most communities in the water clan are small enough that no members in a	single area	share the same name.</p>
+      <p>
+        <span class="feature">Male Names:</span>Aariak, Aassanaaq, Aippaq, Aklaq, Aklark, Amaruq, Anik, Ilannaq, Inuksuk, Irniq, Kanguq, Kumaglak, Nasak, Natsiq, Oki, Pakak, Petuwaq, Qajak, Qimmiq, Siluk, Taktuq, Toklo, Tulimak, Ugalik, Ukiuk, Unnuk<br/>
+        <span class="feature">Female Names:</span>Aluki, Anniagruk, Anyu, Apaay, Aputi, Availuk, Chikuk, Etsuuya, Higalik, Iqaluk, Kallik, Kunik, Naaqtuuqn, Nirliq, Nuniq, Nuvuk, Opik, Pikatti, Pimniq, Qaaynak, Ticasuk, Tikaani, Tupiq, Tuuq, Uki, Yakone<br/>
+      </p>
+
+      <h4>WATER CLAN TRAITS</h4>
+      <p>Water clan members can	usually be found near natural sources of water, and share some common traits.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Constitution score increases by 2.<br />
+        <span class="feature">Age.</span>A water clan member reaches adulthood at the age of 18 and typically lives for less than a	century.<br />
+        <span class="feature">Alignment.</span>Water clan members are adaptable, and capable of change. Water clan members tend towards neutrality.<br />
+        <span class="feature">Size.</span>Water clan members are typically between 5 and 6 feet tall. Your size is Medium.<br />
+        <span class="feature">Speed.</span>Your base walking speed is 30 feet.<br />
+        <span class="feature">Natural Healer.</span>If you roll a	1 when healing hit points (such as when resting or initiating a	form that heals hit points), you can reroll the die and must use the new roll.<br />
+        <span class="feature">Traditional Remedies.</span>You gain proficiency in the medicine skill.<br />
+        <span class="feature">Waterborne.</span>You have advantage on Strength (Athletics) and Dexterity (Acrobatics) checks made while underwater.<br />
+        <span class="feature">Languages.</span>You can speak, read, and write Common and Imiq.<br />
+        <span class="feature">Subrace.</span>The two main groups of the water clan, the polar clan and the swamp people, are mainly separated by geography. The polar clan is used to enduring harsh and biting winters, while the swamp people are more familiar with muggy, humid bayous. Choose one of these subraces.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <setters>
+      <set name="names" type="male">Aariak, Aassanaaq, Aippaq, Aklaq, Aklark, Amaruq, Anik, Ilannaq, Inuksuk, Irniq, Kanguq, Kumaglak, Nasak, Natsiq, Oki, Pakak, Petuwaq, Qajak, Qimmiq, Siluk, Taktuq, Toklo, Tulimak, Ugalik, Ukiuk, Unnuk</set>
+      <set name="names" type="female">Aluki, Anniagruk, Anyu, Apaay, Aputi, Availuk, Chikuk, Etsuuya, Higalik, Iqaluk, Kallik, Kunik, Naaqtuuqn, Nirliq, Nuniq, Nuvuk, Opik, Pikatti, Pimniq, Qaaynak, Ticasuk, Tikaani, Tupiq, Tuuq, Uki, Yakone</set>
+      <set name="names-format">{{name}}</set>
+      <set name="height" modifier="2d10">4'8"</set>
+      <set name="weight" modifier="2d4">110 lb.</set>
+    </setters>
+    <rules>
+      <stat name="constitution" value="2" />
+      <stat name="innate speed" value="30" bonus="base" />
+      <grant type="Size" id="ID_SIZE_MEDIUM" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_NATURAL_HEALER" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_TRADITIONAL_REMEDIES" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_WATERBORNE" />
+      <grant type="Language" id="ID_LANGUAGE_COMMON" />
+      <!--grant type="Language" id="ID_LANGUAGE_IMIQ" /-->
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_WATER_CLAN_SUBRACE" />
+    </rules>
+  </element>
+
+  <element name="Natural Healer" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_NATURAL_HEALER">
+    <description>
+      <p>If you roll a 1 when healing hit points (such as when resting or initiating a form that heals hit points), you can reroll the die and must use the new roll.</p>
+    </description>
+    <sheet>
+      <description>If you roll a 1 when healing hit points (such as when resting or initiating a form that heals hit points), you can reroll the die and must use the new roll.</description>
+    </sheet>
+  </element>
+
+  <element name="Traditional Remedies" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_TRADITIONAL_REMEDIES">
+    <description>
+      <p>You gain proficiency in the medicine skill.</p>
+    </description>
+    <sheet>
+      <description>You gain proficiency in the medicine skill.</description>
+    </sheet>
+    <rules>
+      <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_MEDICINE" />
+    </rules>
+  </element>
+
+  <element name="Waterborne" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_WATERBORNE">
+    <description>
+      <p>You have advantage on Strength (Athletics) and Dexterity (Acrobatics) checks made while underwater.</p>
+    </description>
+    <sheet>
+      <description>You have advantage on Strength (Athletics) and Dexterity (Acrobatics) checks made while underwater.</description>
+    </sheet>
+  </element>
+
+  <element name="Water Clan Subrace" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_WATER_CLAN_SUBRACE">
+    <description>
+      <p>The two main groups of the water clan, the polar clan and the swamp people, are mainly separated by geography. The polar clan is used to enduring harsh and biting winters, while the swamp people are more familiar with muggy, humid bayous. Choose one of these subraces.</p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <select type="Sub Race" name="Water Clan Subrace" supports="Water Clan" />
+    </rules>
+  </element>
+
+
+  <element name="Polar Clan" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_POLAR_CLAN">
+    <supports>Water Clan</supports>
+    <description>
+      <p>While water is seen as the element of adaptability, polar water clan members have rituals and traditions that they strictly adhere to. The northern polar clan typically separates the division of labor along gender lines, with men working as hunters, fishermen, and warriors, and women serving as homemakers, healers, or teachers. As the Great Glacier continues to retreat, the polar clan clings to these traditions in an attempt to keep their culture from disappearing as quickly as their home does. Both groups are still accepting of change, however, and do share common characteristics with one another.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Strength score increases by 1.<br />
+        <span class="feature">Cold Endurance.</span>You gain resistance to cold damage.<br />
+        <span class="feature">Extreme Environment.</span>The first time you would be required to make a saving throw against exhaustion in a day due to environmental effects (such as extreme cold, hunger, or loss of sleep), you can shrug off the effect, automatically succeeding on the saving throw. Once you use this trait, you must complete a long rest before you can do so again.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="strength" value="1" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_COLD_ENDURANCE" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_EXTREME_ENVIRONMENT" />
+    </rules>
+  </element>
+
+  <element name="Cold Endurance" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_COLD_ENDURANCE">
+    <description>
+      <p>You gain resistance to cold damage.</p>
+    </description>
+    <sheet>
+      <description>You gain resistance to cold damage.</description>
+    </sheet>
+    <rules>
+      <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
+    </rules>
+  </element>
+
+  <element name="Extreme Environment" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_EXTREME_ENVIRONMENT">
+    <description>
+      <p>The first time you would be required to make a saving throw against exhaustion in a day due to environmental effects (such as extreme cold, hunger, or loss of sleep), you can shrug off the effect, automatically succeeding on the saving throw. Once you use this trait, you must complete a long rest before you can do so again.</p>
+    </description>
+    <sheet>
+      <description>The first time you would be required to make a saving throw against exhaustion in a day due to environmental effects (such as extreme cold, hunger, or loss of sleep), you can shrug off the effect, automatically succeeding on the saving throw. Once you use this trait, you must complete a long rest before you can do so again.</description>
+    </sheet>
+  </element>
+
+  <element name="Swamp People" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_SWAMP_RACE">
+    <supports>Water Clan</supports>
+    <description>
+      <p>The swamp people don’t have much contact with their polar brethren, but still see them as family just the same. Members of the water clan always have a friend in the swamps and bayous of the world, anywhere they can find a swamp person. The largest concentration of swamp people live in the Vast Swamp. Naturally gregarious, the swamp people have learned to use the swamp’s lora	and fauna	to serve their needs, and don’t usually venture beyond their home unless spurred to do so by some outside force.</p>
+      <p>
+        <span class="feature">Ability Score Increase.</span>Your Wisdom score increases by 1.<br />
+        <span class="feature">Plant Familiarity.</span>You have advantage on Intelligence (Nature) checks made to identify and understand the properties of plants and plant creatures.<br />
+        <span class="feature">Mask of the Wild.</span>You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.<br />
+      </p>
+    </description>
+    <sheet display="false" />
+    <rules>
+      <stat name="wisdom" value="1" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_PLANT_FAMILIARITY" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_MASK_OF_THE_WILD" />
+    </rules>
+  </element>
+
+  <element name="Plant Familiarity" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_PLANT_FAMILIARITY">
+    <description>
+      <p>You have advantage on Intelligence (Nature) checks made to identify and understand the properties of plants and plant creatures.</p>
+    </description>
+    <sheet>
+      <description>You have advantage on Intelligence (Nature) checks made to identify and understand the properties of plants and plant creatures.</description>
+    </sheet>
+  </element>
+  
+  <element name="Mask of the Wild" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_MASK_OF_THE_WILD">
+    <description>
+      <p>You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</p>
+    </description>
+    <sheet>
+      <description>You can attempt to hide even when you are only lightly obscured by foliage, heavy rain, falling snow, mist, and other natural phenomena.</description>
+    </sheet>
+  </element>
+  
+</elements>
