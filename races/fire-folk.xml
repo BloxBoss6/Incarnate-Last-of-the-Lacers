@@ -4,7 +4,7 @@
 		<name>Fire Folk</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
-		<update version="0.2">
+		<update version="0.3">
 			<file name="fire-folk.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/fire-folk.xml" />
 		</update>
 	</info>
@@ -12,167 +12,188 @@
   <element name="Fire Folk" type="Race" source="Incarnate: The Last of the Lacers" id="ID_RACE_FIRE_FOLK">
     <description>
       <p class="flavor">"Fire is the element of power. The fire folk have desire and will, and the energy and drive to achieve what they want." - General Ichiro, The Division of the Elements</p>
-      <p>The ire folk were seen as the warmongers of the world. While their personalities and convictions can be vibrant and passionate, this view of them is mostly unearned. Fire folk do have passion, but channel it into the pursuits shared by other races. Love, respect, community, family. Having a	zest for life is a hallmark of the ire folk, and it manifests in their daily lives.</p>
+      <p>The fire folk were seen as the warmongers of the world. While their personalities and convictions can be vibrant and passionate, this view of them is mostly unearned. Fire folk do have passion, but channel it into the pursuits shared by other races. Love, respect, community, family. Having a	zest for life is a hallmark of the fire folk, and it manifests in their daily lives.</p>
 
       <h4>BRASH AND BOLD</h4>
-      <p>The ire folk empire once existed over a	vast expanse, covering the volcanic islands of Wa	 in the east. That empire has since fallen, and even their largest city, Huo Cheng, was destroyed by a volcano. Most remaining ire folk can be found in Gongheguo City. Small populations also remain in tiny communities, hiding from larger nations.</p>
+      <p>The fire folk empire once existed over a vast expanse, covering the volcanic islands of Wa in the east. That empire has since fallen, and even their largest city, Huo Cheng, was destroyed by a volcano. Most remaining fire folk can be found in Gongheguo City. Small populations also remain in tiny communities, hiding from larger nations.</p>
       <p class="indent">Fire folk usually stand between 5 and 6 feet tall. Their skin is typically fair compared to other human races. Hairstyles can say a	lot about a	ire folk as well. There are certain hairstyles and ceremonial top knots and ponytails that are reserved for royalty, and various hairstyles for other stations in life. Fire folk like to wear bold colors like reds and yellows.</p>
 
-      <h4>DELIGHTED DEDICATION</h4>
-      <p>As far as gnomes are concerned, being alive is a wonderful thing, and they squeeze every ounce of enjoyment out of their three to five centuries of life. Humans might wonder about getting bored over the course of such a long life, and elves take plenty of time to savor the beauties of the world in their long years, but gnomes seem to worry that even with all that time, they can’t get in enough of the things they want to do and see.</p>
-      <p class="indent">Gnomes speak as if they can’t get the thoughts out of their heads fast enough. Even as they offer ideas and opinions on a range of subjects, they still manage to listen carefully to others, adding the appropriate exclamations of surprise and appreciation along the way.</p>
-      <p class="indent">Though gnomes love jokes of all kinds, particularly puns and pranks, they’re just as dedicated to the more serious tasks they undertake. Many gnomes are skilled engineers, alchemists, tinkers, and inventors. They’re willing to make mistakes and laugh at themselves in the process of perfecting what they do, taking bold (sometimes foolhardy) risks and dreaming large.</p>
+      <h4>FERVOR FOR LIFE</h4>
+      <p>Of all the races, fire folk have the most zest. Fire folk have dozens of festivals, and find any excuse they can to throw a party. Festivals are held almost weekly, if not more so, with multiple reasons to celebrate life and love.</p>
+      <p class="indent">The fire folk of Gongheguo City have the most advanced industry, and are the crafters of many different kinds of trinkets and treasures. Fire folk are also the biggest crafters of weapons and armor. In antiquity they were used for war or palace coups, but now they are only used for practice or ceremonial decoration.</p>
 
-      <h4>BRIGHT BURROWS</h4>
-      <p>Gnomes make their homes in hilly, wooded lands. They live underground but get more fresh air than dwarves do, enjoying the natural, living world on the surface whenever they can. Their homes are well hidden by both clever construction and simple illusions. Welcome visitors are quickly ushered into the bright, warm burrows. Those who are not welcome are unlikely to find the burrows in the first place.</p>
-      <p class="indent">Gnomes who settle in human lands are commonly gemcutters, engineers, sages, or tinkers. Some human families retain gnome tutors, ensuring that their pupils enjoy a mix of serious learning and delighted enjoyment. A gnome might tutor several generations of a single human family over the course of his or her long life.</p>
+      <h4>VOLATILE THRONE, STEADY COMMUNITY</h4>
+      <p>The fire folk typically live for less than a century. Of all the societies, fire folk could be considered the most changing. The rulers of the empire succeeded rapidly, and while the succession of the throne was typically handed down along familial lines, it was not uncommon for others to take over the throne for their own families. In recent times, the empire has fallen to the point where many families claim kinship with royal lines, but none have any true authority over other fire folk.</p>
+      <p class="indent">Firelacing comes from the fire folk, and tradition dictates that the ability was originally learned from dragons. Dragons are seen as the original firelacers, and fire folk revere these powerful creatures in daily life. Firelacing masters spend years learning control over their abilities. Amateur firelacers might use their abilities indiscriminately, but only a	master will be able to exert true control over their fire, using it not only for its power, but for its soothing light.</p>
 
-      <h4>GNOME NAMES</h4>
-      <p>Gnomes love names, and most have half a dozen or so. A gnome's mother, father, clan elder, aunts, and uncles each give the gnome a name, and various nicknames from just about everyone else might or might not stick over time. Gnome names are typically variants on the names of ancestors or distant relatives, though some are purely new inventions. When dealing with humans and others who are “stuffy” about names, a gnome learns to use no more than three names: a personal name, a clan name, and a nickname, choosing the one in each category that’s the most fun to say.</p>
+      <h4>FEARLESS AND RESOLUTE</h4>
+      <p>While the fire folk can be seen as intimidating by other societies, the truth is that fire folk will be incredibly quick to trust someone and decide that they're a friend, and invite them along to festivals, or open their home to them.</p>
+      <p class="indent"><b>Air Monks.</b> "Once you get to know them, the air monks can be really fun! They do their meditations, and that's great, but there's nothing more entertaining than getting an air monk to loosen up and tell you their stories."
+      <p class="indent"><b>Water Clan.</b> "I don't understand how the water clan can live in places that are so cold. And it's kind of strange that they don't have more contact with other people. Are they being secretive, or is it just because no one else goes there? They can be a little hard to trust."
+      <p class="indent"><b>Earth Kin.</b> "The earth kin are so structured, it can be a little infuriating. Even their festivals fall on such a strict schedule with specific rules on how to have fun. It's pretty rare to see an earth kin just cut loose and be unrestrained for once."</p>
+      <p class="indent"><b>Obake.</b> "I'd love to meet an obake. People say they look like animals, and they love to play tricks. I wonder if that's true? If they do exist, they must keep to themselves, but I wouldn't hesitate to meet one!"</p>>
+
+      <h4>ON THE ROAD</h4>
+      <p>Fire folk might be the people most suited for life on the road. Quick to make friends and sate others who might distrust them of their nature, a fire folk doesn't take another creature's reaction to them personally. They know of their own reputation, and find it's more prudent to simply lead by example and show why they would be great friends.</p>
+      <p class="indent">Fire folk may become adventurers just for the love of travel, to make new friends, see strange lands, encounter weird new creatures, or test their might against dangerous spirits.</p>      
+
+      <h4>FIRE FOLK NAMES</h4>
+      <p>Fire folk names are granted at birth. Typically a fire folk will only have a single name, with distinguishing family names reserved only for high society. Fire folk names often low together, using softer consonants such as "z."</p>
       <p>
-        <span class="feature">Male Names:</span>Alston, Alvyn, Boddynock, Brocc, Burgell, Dimble, Eldon, Erky, Fonkin, Frug, Gerbo, Gimble, Glim, Jebeddo, Kellen, Namfoodle, Orryn, Roondar, Seebo, Sindri, Warryn, Wrenn, Zook<br/>
-        <span class="feature">Female Names:</span>Bimpnottin, Breena, Caramip, Carlin, Donella, Duvamil, Ella, Ellyjobell, Ellywick, Lilli, Loopmottin, Lorilla, Mardnab, Nissa, Nyx, Oda, Orla, Roywyn, Shamil, Tana, Waywocket, Zanna<br/>
-        <span class="feature">Clan Names:</span>Beren, Daergel, Folkor, Garrick, Nackle, Murnig, Ningel, Raulnor, Scheppen, Timbers, Turen<br/>
-        <span class="feature">Nicknames:</span>Aleslosh, Ashhearth, Badger, Cloak, Doublelock, Filchbatter, Fnipper, Ku, Nim, Oneshoe, Pock, Sparklegem, Stumbleduck<br/>
+        <span class="feature">Male Names:</span>Azata, Azumu, Daichi, Daizuke, Goro, Hachiro, Haruto, Haruzi, Hayato, Hideyoshi, Hinaza, Izuki, Jiro, Kaede, Katashi, Kazuo, Mazaru, Minoru, Noboru, Nori, Ozamu, Ryo, Shiro, Taro, Yazu, Yoshi, Zaburo, Zota<br/>
+        <span class="feature">Female Names:</span>Aizo, Aimi, Azuko, Chizako, Chinatsu, Etsuko, Haruna, Hina, Hiroko, Izumi, Kazue, Kazuko, Kazumi, Mei, Midori, Mizuki, Natsuko, Rei, Satomi, Sayuri, Shizuka, Suzu, Suzume, Tomiko, Yoko, Yumi, Yuzuki<br/>
       </p>
 
-      <h4>SEEING THE WORLD</h4>
-      <p>Curious and impulsive, gnomes might take up adventuring as a way to see the world or for the love of exploring. As lovers of gems and other fine items, some gnomes take to adventuring as a quick, if dangerous, path to wealth. Regardless of what spurs them to adventure, gnomes who adopt this way of life eke as much enjoyment out of it as they do out of any other activity they undertake, sometimes to the great annoyance of their adventuring companions.</p>
-
-      <h4>GNOME TRAITS</h4>
-      <p>Your gnome character has certain characteristics in common with all other gnomes.</p>
+      <h4>FIRE FOLK</h4>
+      <p>Fire folk all have some things in common due to their shared heritage.</p>
       <p>
-        <span class="feature">Ability Score Increase.</span>Your Intelligence score increases by 2.<br />
-        <span class="feature">Age.</span>Gnomes mature at the same rate humans do, and most are expected to settle down into an adult life by around age 40. They can live 350 to almost 500 years.<br />
-        <span class="feature">Alignment.</span>Gnomes are most often good. Those who tend toward law are sages, engineers, researchers, scholars, investigators, or inventors. Those who tend toward chaos are minstrels, tricksters, wanderers, or fanciful jewelers. Gnomes are good-hearted, and even the tricksters among them are more playful than vicious.<br />
-        <span class="feature">Size.</span>Gnomes are between 3 and 4 feet tall and average about 40 pounds. Your size is Small.<br />
-        <span class="feature">Speed.</span>Your base walking speed is 25 feet.<br />
-        <span class="feature">Darkvision.</span>Accustomed to life underground, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.<br />
-        <span class="feature">Gnome Cunning.</span>You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.<br />
-        <span class="feature">Languages.</span>You can speak, read, and write Common and Gnomish. The Gnomish language, which uses the Dwarvish script, is renowned for its technical treatises and its catalogs of knowledge about the natural world.<br />
-        <span class="feature">Subrace.</span>Two subraces of gnomes are found among the worlds of D&amp;D: forest gnomes and rock gnomes. Choose one of these subraces.<br />
+        <span class="feature">Ability Score Increase.</span>Your Charsima score increases by 2.<br />
+        <span class="feature">Age.</span>. Fire folk reach adulthood at the age of 18 and typically live for less than a century.<br />
+        <span class="feature">Alignment.</span>Fire folk represent a widely diverse group of people. Some enjoy being lawful and following traditions; yet the spirit of irelacing leans towards chaos.<br />
+        <span class="feature">Size.</span>Fire folk are typically between 5 and 6 feet tall. Your size is Medium<br />
+        <span class="feature">Speed.</span>Your base walking speed is 30 feet.<br />
+        <span class="feature">Positive Jing.</span>When you roll a 1 on a d20 for an attack roll, you can reroll the die and must use the new roll.<br />
+        <span class="feature">Bad Reputation.</span>You gain proficiency in the intimidation skill.<br />
+        <span class="feature">Savage Elements.</span>When you score a crititcal hit with an elemental attack, you can roll one of the weapons damage dice one additional time and add it to the extra damage of the critical hit.<br />
+        <span class="feature">Languages.</span>You can speak, read, and write Common and Kasai.<br />
+        <span class="feature">Subrace.</span>While all fire folk share some qualities, a division in the use of firelacing caused a rift to appear, and eventually two separate groups emerged. Choose one of these subraces.<br />
       </p>
     </description>
     <sheet display="false" />
     <setters>
-      <set name="names" type="male">Alston, Alvyn, Boddynock, Brocc, Burgell, Dimble, Eldon, Erky, Fonkin, Frug, Gerbo, Gimble, Glim, Jebeddo, Kellen, Namfoodle, Orryn, Roondar, Seebo, Sindri, Warryn, Wrenn, Zook</set>
-      <set name="names" type="female">Bimpnottin, Breena, Caramip, Carlin, Donella, Duvamil, Ella, Ellyjobell, Ellywick, Lilli, Loopmottin, Lorilla, Mardnab, Nissa, Nyx, Oda, Orla, Roywyn, Shamil, Tana, Waywocket, Zanna</set>
-      <set name="names" type="clan">Beren, Daergel, Folkor, Garrick, Nackle, Murnig, Ningel, Raulnor, Scheppen, Timbers, Turen</set>
-      <set name="names" type="nickname">Aleslosh, Ashhearth, Badger, Cloak, Doublelock, Filchbatter, Fnipper, Ku, Nim, Oneshoe, Pock, Sparklegem, Stumbleduck</set>
-      <set name="names-format">{{name}} '{{nickname}}' {{clan}}</set>
-      <set name="height" modifier="2d4">2'11"</set>
-      <set name="weight" modifier="1">35 lb.</set>
+      <set name="names" type="male">Azata, Azumu, Daichi, Daizuke, Goro, Hachiro, Haruto, Haruzi, Hayato, Hideyoshi, Hinaza, Izuki, Jiro, Kaede, Katashi, Kazuo, Mazaru, Minoru, Noboru, Nori, Ozamu, Ryo, Shiro, Taro, Yazu, Yoshi, Zaburo, Zota</set>
+      <set name="names" type="female">Aizo, Aimi, Azuko, Chizako, Chinatsu, Etsuko, Haruna, Hina, Hiroko, Izumi, Kazue, Kazuko, Kazumi, Mei, Midori, Mizuki, Natsuko, Rei, Satomi, Sayuri, Shizuka, Suzu, Suzume, Tomiko, Yoko, Yumi, Yuzuki</set>
+      <set name="names-format">{{name}}</set>
+      <set name="height" modifier="2d10">4'8"</set>
+      <set name="weight" modifier="2d4">110 lb.</set>
     </setters>
     <rules>
-      <stat name="intelligence" value="2" />
-      <stat name="innate speed" value="25" bonus="base" />
-      <grant type="Size" id="ID_SIZE_SMALL" />
-      <grant type="Vision" id="ID_VISION_DARKVISION" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_GNOME_CUNNING" />
+      <stat name="charisma" value="2" />
+      <stat name="innate speed" value="30" bonus="base" />
+      <grant type="Size" id="ID_SIZE_MEDIUM" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_POSITIVE_JING" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_BAD_REPUTATION" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_SAVAGE_ELEMENTS" />
       <grant type="Language" id="ID_LANGUAGE_COMMON" />
-      <grant type="Language" id="ID_LANGUAGE_GNOMISH" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_GNOME_SUBRACE" />
+      <grant type="Language" id="ID_LANGUAGE_KASAI" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_FIRE_FOLK_SUBRACE" />
     </rules>
   </element>
 
-  <element name="Gnome Cunning" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_GNOME_CUNNING">
+  <element name="Positive Jing" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_POSITIVE_JING">
     <description>
-      <p>You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.</p>
+      <p>When you roll a 1 on the d20 for an attack roll, you can reroll the die and must use the new roll.</p>
     </description>
     <sheet>
-      <description>You have advantage on all Intelligence, Wisdom, and Charisma saving throws against magic.</description>
+      <description>When you roll a 1 on the d20 for an attack roll, you can reroll the die and must use the new roll.</description>
     </sheet>
   </element>
-  <element name="Gnome Subrace" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_GNOME_SUBRACE">
+
+  <element name="Bad Reputation" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_BAD_REPUTATION">
     <description>
-      <p>Two subraces of gnomes are found among the worlds of D&amp;D: forest gnomes and rock gnomes. Choose one of these subraces.</p>
+      <p>You gain proficiency in the intimidation skill.</p>
+    </description>
+    <sheet>
+      <description>You gain proficiency in the intimidation skill.</description>
+    </sheet>
+    <rules>
+      <grant type="Proficiency" id="ID_PROFICIENCY_SKILL_INTIMIDATION" />
+    </rules>
+  </element>
+
+  <element name="Savage Elements" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_SAVAGE_ELEMENTS">
+    <description>
+      <p>When you score a crititcal hit with an elemental attack, you can roll one of the weapons damage dice one additional time and add it to the extra damage of the critical hit.</p>
+    </description>
+    <sheet>
+      <description>When you score a crititcal hit with an elemental attack, you can roll one of the weapons damage dice one additional time and add it to the extra damage of the critical hit.</description>
+    </sheet>
+  </element>
+
+  <element name="Fire Folk Subrace" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_FIRE_FOLK_SUBRACE">
+    <description>
+      <p>While all fire folk share some qualities, a division in the use of firelacing caused a rift to appear, and eventually two separate groups emerged. Choose one of these subraces.</p>
     </description>
     <sheet display="false" />
     <rules>
-      <select type="Sub Race" name="Gnome Subrace" supports="Gnome" />
+      <select type="Sub Race" name="Fire Folk Subrace" supports="Fire Folk" />
     </rules>
   </element>
 
 
-  <element name="Forest Gnome" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_FOREST_GNOME">
-    <supports>Gnome</supports>
+  <element name="Dragon" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_DRAGON">
+    <supports>Fire Folk</supports>
     <description>
-      <p>As a forest gnome, you have a natural knack for illusion and inherent quickness and stealth. In the worlds of D&amp;D, forest gnomes are rare and secretive. They gather in hidden communities in sylvan forests, using illusions and trickery to conceal themselves from threats or to mask their escape should they be detected. Forest gnomes tend to be friendly with other good-spirited woodland folk, and they regard elves and good fey as their most important allies. These gnomes also befriend small forest animals and rely on them for information about threats that might prowl their lands.</p>
+      <p>As a	 dragon folk, you see dragons as the mightiest and most powerful of creatures. Many dragon folk communities spring up around actual dragons, which they revere and worship as the original firelacers. Dragon folk are rare, typically hiding their presence from other races in order to live in devotion to the true firelacing masters.</p>
       <p>
         <span class="feature">Ability Score Increase.</span>Your Dexterity score increases by 1.<br />
-        <span class="feature">Natural Illusionist.</span>You know the minor illusion cantrip. Intelligence is your spellcasting ability for it.<br />
-        <span class="feature">Speak with Small Beasts.</span>Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Forest gnomes love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.<br />
+        <span class="feature">Dragon Worshipper.</span>You can cast the <i>cause fear</i> spell as a 1st-level spell once with this trait, and regain the ability to do so when you finish a long rest. When you reach 3rd level, you can cast the calm emotions spell as a	2nd-level spell once with this trait, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.<br />
       </p>
     </description>
     <sheet display="false" />
     <rules>
       <stat name="dexterity" value="1" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_NATURAL_ILLUSIONIST" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_SPEAK_WITH_SMALL_BEASTS" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_DRAGON_WORSHIPPER" />
     </rules>
   </element>
 
-  <element name="Natural Illusionist" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_NATURAL_ILLUSIONIST">
+  <element name="Dragon Worshipper" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_DRAGON_WORSHIPPER">
     <description>
-      <p>You know the minor illusion cantrip. Intelligence is your spellcasting ability for it.</p>
+      <p>You can cast the <i>cause fear</i> spell as a 1st-level spell once with this trait, and regain the ability to do so when you finish a long rest. When you reach 3rd level, you can cast the calm emotions spell as a	2nd-level spell once with this trait, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</p>
     </description>
     <sheet>
-      <description>You know the minor illusion cantrip. Intelligence is your spellcasting ability for it.</description>
+      <description>You can cast the <i>cause fear</i> spell as a 1st-level spell once with this trait, and regain the ability to do so when you finish a long rest. When you reach 3rd level, you can cast the calm emotions spell as a	2nd-level spell once with this trait, and regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.</description>
     </sheet>
     <rules>
-      <grant type="Spell" id="ID_PHB_SPELL_MINOR_ILLUSION" />
+      <grant type="Spell" id="ID_XGTE_SPELL_CAUSE_FEAR" />
     </rules>
   </element>
-  <element name="Speak with Small Beasts" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_SPEAK_WITH_SMALL_BEASTS">
-    <description>
-      <p>Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts. Forest gnomes love animals and often keep squirrels, badgers, rabbits, moles, woodpeckers, and other creatures as beloved pets.</p>
-    </description>
-    <sheet>
-      <description>Through sounds and gestures, you can communicate simple ideas with Small or smaller beasts.</description>
-    </sheet>
-  </element>
 
-  <element name="Rock Gnome" type="Sub Race" source="Player’s Handbook" id="ID_SUB_RACE_ROCK_GNOME">
-    <supports>Gnome</supports>
+  <element name="Qilin" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_SUB_RACE_QILIN">
+    <supports>Fire Folk</supports>
     <description>
-      <p>As a rock gnome, you have a natural inventiveness and hardiness beyond that of other gnomes. Most gnomes in the worlds of D&amp;D are rock gnomes, including the tinker gnomes of the Dragonlance setting.</p>
+      <p>Qilin folk are by far the more prosperous and numerous. Qilin emerged as the more prominent of the two groups of fire folk, and many don’t believe that any dragon folk still exist. Qilin royalty advanced industry in an attempt to have a	forceful military power, but most qilin folk have distanced themselves from this, and lead simple and prosperous lives</p>
       <p>
-        <span class="feature">Ability Score Increase.</span>Your Constitution score increases by 1.<br />
-        <span class="feature">Artificer’s Lore.</span>Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.<br />
-        <span class="feature">Tinker.</span>You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.<br />
-      </p>
-      <p>When you create a device, choose one of the following options:</p>
-      <p style="margin-left:20px;">
-        <span style="font-style:italic;padding-right:5px;padding-left:-20px;">Clockwork Toy.</span>This toy is a clockwork animal, monster, or person, such as a frog, mouse, bird, dragon, or soldier. When placed on the ground, the toy moves 5 feet across the ground on each of your turns in a random direction. It makes noises as appropriate to the creature it represents.<br />
-        <span style="font-style:italic;padding-right:5px;padding-left:-20px;">Fire Starter.</span>The device produces a miniature flame, which you can use to light a candle, torch, or campfire. Using the device requires your action.<br />
-        <span style="font-style:italic;padding-right:5px;padding-left:-20px;">Music Box.</span>When opened, this music box plays a single song at a moderate volume. The box stops playing when it reaches the song’s end or when it is closed.<br />
+        <span class="feature">Ability Score Increase.</span>Your Strength score increases by 1.<br />
+        <span class="feature">Qilin Weapon Training.</span>You have proficiency with the crossbow, halberd, longsword, shortsword, and spear.<br />
+        <span class="feature">Qilin Armor Training.</span>You have proficiency with light and medium armor, and shields.<br />
       </p>
     </description>
     <sheet display="false" />
     <rules>
-      <stat name="constitution" value="1" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_ARTIFICERS_LORE" />
-      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_TINKER" />
+      <stat name="strength" value="1" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_QILIN_WEAPON" />
+      <grant type="Racial Trait" id="ID_RACIAL_TRAIT_QILIN_ARMOR" />
     </rules>
   </element>
 
-  <element name="Artificer’s Lore" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_ARTIFICERS_LORE">
+  <element name="Qilin Weapon Training" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_QILIN_WEAPON">
     <description>
-      <p>Whenever you make an Intelligence (History) check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.</p>
+      <p>You have proficiency with the crossbow, halberd, longsword, shortsword, and spear.</p>
     </description>
     <sheet>
-      <description>Whenever you make a History check related to magic items, alchemical objects, or technological devices, you can add twice your proficiency bonus, instead of any proficiency bonus you normally apply.</description>
-    </sheet>
-  </element>
-  <element name="Tinker" type="Racial Trait" source="Player’s Handbook" id="ID_RACIAL_TRAIT_TINKER">
-    <description>
-      <p>You have proficiency with artisan’s tools (tinker’s tools). Using those tools, you can spend 1 hour and 10 gp worth of materials to construct a Tiny clockwork device (AC 5, 1 hp). The device ceases to function after 24 hours (unless you spend 1 hour repairing it to keep the device functioning), or when you use your action to dismantle it; at that time, you can reclaim the materials used to create it. You can have up to three such devices active at a time.</p>
-    </description>
-    <sheet>
-      <description>Using tinker’s tools, you can construct a Tiny clockwork device. You can have up to three such devices active at a time.</description>
+      <description>You have proficiency with the crossbow, halberd, longsword, shortsword, and spear.</description>
     </sheet>
     <rules>
-      <grant type="Proficiency" id="ID_PROFICIENCY_TOOL_PROFICIENCY_TINKERS_TOOLS" />
+      <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_CROSSBOW_LIGHT" />
+      <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_HALBERD" />
+      <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_LONGSWORD" />
+      <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SHORTSWORD" />
+      <grant type="Proficiency" id="ID_PROFICIENCY_WEAPON_PROFICIENCY_SPEAR" />
+    </rules>
+  </element>
+  
+  <element name="Qilin Armor Training" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_RACIAL_TRAIT_QILIN_ARMOR">
+    <description>
+      <p>You have proficiency with light and medium armor, and shields.</p>
+    </description>
+    <sheet>
+      <description>You have proficiency with light and medium armor, and shields.</description>
+    </sheet>
+    <rules>
+      <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_LIGHT_ARMOR" />
+      <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_MEDIUM_ARMOR" />
+      <grant type="Proficiency" id="ID_PROFICIENCY_ARMOR_PROFICIENCY_SHIELDS" />
     </rules>
   </element>
   
