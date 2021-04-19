@@ -9,7 +9,7 @@
     <element name="Incarnate: The Last of the Lacers" type="Source" source="DM's Guild" id="ID_DM_GUILD_SOURCE_INCARNATE">
         <setters>
             <set name="abbreviation">INCARN</set>
-            <set image="url">https://dtrpg-public-files.s3.us-east-2.amazonaws.com/images/8957/191837-thumb140.png</set>
+            <set name="image">https://dtrpg-public-files.s3.us-east-2.amazonaws.com/images/8957/191837-thumb140.png</set>
             <set name="url">https://github.com/BloxBoss6/Incarnate-Last-of-the-Lacers</set>
             <set name="author">Alex Tanner</set>
             <set name="third-party">true</set>
