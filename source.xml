@@ -2,7 +2,7 @@
 <elements>
     <info>
         <update version="0.0.2">
-            <file name="source.xml"/>
+            <file name="source.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacersw/master/source.xml" />
         </update>
     </info>
 

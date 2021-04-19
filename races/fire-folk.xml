@@ -3,9 +3,9 @@
 	<info>
 		<name>Fire Folk</name>
 		<description></description>
-		<author >Alex Tanner</author>
+		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
 		<update version="0.1">
-			<file name="fire-folk.xml" />
+			<file name="fire-folk.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/fire-folk.xml" />
 		</update>
 	</info>
 
