@@ -4,7 +4,7 @@
 		<name>Fire Folk</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
-		<update version="0.1">
+		<update version="0.2">
 			<file name="fire-folk.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/fire-folk.xml" />
 		</update>
 	</info>
@@ -12,10 +12,11 @@
   <element name="Fire Folk" type="Race" source="Incarnate: The Last of the Lacers" id="ID_RACE_FIRE_FOLK">
     <description>
       <p class="flavor">"Fire is the element of power. The fire folk have desire and will, and the energy and drive to achieve what they want." - General Ichiro, The Division of the Elements</p>
+      <p>The ire folk were seen as the warmongers of the world. While their personalities and convictions can be vibrant and passionate, this view of them is mostly unearned. Fire folk do have passion, but channel it into the pursuits shared by other races. Love, respect, community, family. Having a	zest for life is a hallmark of the ire folk, and it manifests in their daily lives.</p>
 
-      <h4>VIBRANT EXPRESSION</h4>
-      <p>A gnome’s energy and enthusiasm for living shines through every inch of his or her tiny body. Gnomes average slightly over 3 feet tall and weigh 40 to 45 pounds. Their tan or brown faces are usually adorned with broad smiles (beneath their prodigious noses), and their bright eyes shine with excitement. Their fair hair has a tendency to stick out in every direction, as if expressing the gnome’s insatiable interest in everything around.</p>
-      <p class="indent">A gnome’s personality is writ large in his or her appearance. A male gnome’s beard, in contrast to his wild hair, is kept carefully trimmed but often styled into curious forks or neat points. A gnome’s clothing, though usually made in modest earth tones, is elaborately decorated with embroidery, embossing, or gleaming jewels.</p>
+      <h4>BRASH AND BOLD</h4>
+      <p>The ire folk empire once existed over a	vast expanse, covering the volcanic islands of Wa	 in the east. That empire has since fallen, and even their largest city, Huo Cheng, was destroyed by a volcano. Most remaining ire folk can be found in Gongheguo City. Small populations also remain in tiny communities, hiding from larger nations.</p>
+      <p class="indent">Fire folk usually stand between 5 and 6 feet tall. Their skin is typically fair compared to other human races. Hairstyles can say a	lot about a	ire folk as well. There are certain hairstyles and ceremonial top knots and ponytails that are reserved for royalty, and various hairstyles for other stations in life. Fire folk like to wear bold colors like reds and yellows.</p>
 
       <h4>DELIGHTED DEDICATION</h4>
       <p>As far as gnomes are concerned, being alive is a wonderful thing, and they squeeze every ounce of enjoyment out of their three to five centuries of life. Humans might wonder about getting bored over the course of such a long life, and elves take plenty of time to savor the beauties of the world in their long years, but gnomes seem to worry that even with all that time, they can’t get in enough of the things they want to do and see.</p>

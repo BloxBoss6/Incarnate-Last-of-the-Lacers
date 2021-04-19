@@ -11,7 +11,7 @@
             <set name="abbreviation">INCARN</set>
             <set name="image">https://dtrpg-public-files.s3.us-east-2.amazonaws.com/images/8957/191837.png</set>
             <set name="url">https://github.com/BloxBoss6/Incarnate-Last-of-the-Lacers</set>
-            <set name="author">Alex Tanner</set>
+            <set name="author" url="https://github.com/BloxBoss6/Incarnate-Last-of-the-Lacers">Alex Tanner</set>
             <set name="third-party">true</set>
             <set name="release">20210418</set>
         </setters>
