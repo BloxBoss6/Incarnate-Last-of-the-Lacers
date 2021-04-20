@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>Elements</name>
-		<update version="0.1">
+		<update version="0.2">
 			<file name="barbarian-elements.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/classes/barbarian-elements.xml" />
 		</update>
 	</info>
@@ -35,14 +35,14 @@
 			<p>As a lacer, you have the supernatural ability to manipulate your element. When you choose this path at 3rd level, you must choose an element: fire, air, water, or earth. From that point on, you are a <b>firelacer</b>, <b>airlacer</b>, <b>waterlacer</b>, or <b>earthlacer</b>. You can never take another element, even if you later get to choose again.</p>
             <p><b>Basic Lacing</b>. You gain your element's Basic Lacing abilities (Firelacing, Airlacing, Waterlacing, Earthlacing). You cannot use these abilities while raging.</p>
 		</description>
-		<sheet>
+		<sheet display="false">
 			<description><b>Basic Lacing</b>. You gain your element's Basic Lacing abilities (Firelacing, Airlacing, Waterlacing, Earthlacing). You cannot use these abilities while raging.</description>
 		</sheet>
         <rules>
             <select type="Archetype Feature" name="Element" supports="Chosen Element"></select>
         </rules>
 	</element>
-    <element name="Fire" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_FIRE_ELEMENT">
+    <element name="Chosen Element (Fire)" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_FIRE_ELEMENT">
         <supports>Chosen Element</supports>
         <description>
             <p>You gain the Firelacing ability. You cannot use this ability while raging.</p>
@@ -51,7 +51,7 @@
             <description>You gain the Firelacing ability. You cannot use this ability while raging.</description>
         </sheet>
     </element>
-    <element name="Air" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_AIR_ELEMENT">
+    <element name="Chosen Element (Air)" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_AIR_ELEMENT">
         <supports>Chosen Element</supports>
         <description>
             <p>You gain the Airlacing ability. You cannot use this ability while raging.</p>
@@ -60,7 +60,7 @@
             <description>You gain the Airlacing ability. You cannot use this ability while raging.</description>
         </sheet>
     </element>
-    <element name="Water" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_WATER_ELEMENT">
+    <element name="Chosen Element (Water)" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_WATER_ELEMENT">
         <supports>Chosen Element</supports>
         <description>
             <p>You gain the Waterlacing ability. You cannot use this ability while raging.</p>
@@ -69,7 +69,7 @@
             <description>You gain the Waterlacing ability. You cannot use this ability while raging.</description>
         </sheet>
     </element>
-    <element name="Earth" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_EARTH_ELEMENT">
+    <element name="Chosen Element (Earth)" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_EARTH_ELEMENT">
         <supports>Chosen Element</supports>
         <description>
             <p>You gain the Earthlacing ability. You cannot use this ability while raging.</p>
@@ -78,7 +78,7 @@
             <description>You gain the Earthlacing ability. You cannot use this ability while raging.</description>
         </sheet>
     </element>
-    <element name="ELEMENT_FURY" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_ELEMENT_FURY">
+    <element name="Element Fury" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_ELEMENT_FURY">
 		<description>
 			<p>Also at 3rd level, your rage unleashes elemental fury in you. The fury extends 10 feet from you in every direction, but not through total cover.</p>
             <p class="indent">Your fury causes your element to swirl around you, battering your foes. It activates when you enter your rage, and you can activate the effect again on each of your turns as a bonus action.</p>
@@ -92,7 +92,7 @@
 		</sheet>
         <rules>
 			<stat name="dc:element fury barbarian elements:base" value="8" />
-			<stat name="dc:element fury barbarian elements:proficiency" value="proficiency:bonus" />
+			<stat name="dc:element fury barbarian elements:proficiency" value="proficiency" />
             <stat name="dc:element fury barbarian elements:constitution" value="constitution:modifier" />
 
 			<stat name="dc:element fury barbarian elements" value="dc:element fury barbarian elements:base" />
