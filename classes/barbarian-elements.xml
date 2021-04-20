@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<elements>
+	<info>
+		<name>Elements</name>
+		<update version="0.1">
+			<file name="barbarian-elements.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/classes/barbarian-elements.xml" />
+		</update>
+	</info>
+	
+	<element name="Path of the Elements" type="Archetype" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_PATH_OF_THE_ELEMENTS">
+		<supports>Primal Path</supports>
+		<description>
+			<p class="flavor">"Maybe your firelacing comes from rage and you just don't have enough anger to fuel it the way you used to."</p>
+			<p class="indent">The Path of the Elements is one of contrast. Rage and serenity. Light and dark. Yin and yang. Those who follow this path learn to unlock their own lacing potential, expertly interspersing weapon attacks with elemental might.</p>
+            <p class="indent">Most barbarian tribes become afiliated with a	single element, and lacers of its type appear in their number. No one can really explain this exclusivity, but tribes become fiercely territorial of their elemental powers. Lacing is seen as a divine gift, passed down from fallen comrades who have gone on to the Spirit World.</p>
+			<div element="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_CHOSEN_ELEMENT" />
+			<div element="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_ELEMENT_FURY" />
+			<div element="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_BOON_OF_THE_ELEMENTS" />
+			<div element="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_ONE_WITH_NATURE" />
+            <div element="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_SPIRITUAL_MIGHT" />
+		</description>
+		<sheet display="true">
+			<description>The Path of the Elements is one of contrast. Rage and serenity. Light and dark. Yin and yang. Those who follow this path learn to unlock their own lacing potential, expertly interspersing weapon attacks with elemental might.</description>
+		</sheet>
+		<rules>
+			<grant type="Archetype Feature" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_CHOSEN_ELEMENT" level="3" />
+            <grant type="Archetype Feature" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_ELEMENT_FURY" level="3" />
+			<grant type="Archetype Feature" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_BOON_OF_THE_ELEMENTS" level="6" />
+			<grant type="Archetype Feature" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_ONE_WITH_NATURE" level="10" />
+			<grant type="Archetype Feature" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_SPIRITUAL_MIGHT" level="14" />
+		</rules>
+	</element>
+	<element name="Chosen Element" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_CHOSEN_ELEMENT">
+		<description>
+			<p>As a lacer, you have the supernatural ability to manipulate your element. When you choose this path at 3rd level, you must choose an element: fire, air, water, or earth. From that point on, you are a <b>firelacer</b>, <b>airlacer</b>, <b>waterlacer</b>, or <b>earthlacer</b>. You can never take another element, even if you later get to choose again.</p>
+            <p><b>Basic Lacing</b>. You gain your element's Basic Lacing abilities (Firelacing, Airlacing, Waterlacing, Earthlacing). You cannot use these abilities while raging.</p>
+		</description>
+		<sheet>
+			<description><b>Basic Lacing</b>. You gain your element's Basic Lacing abilities (Firelacing, Airlacing, Waterlacing, Earthlacing). You cannot use these abilities while raging.</description>
+		</sheet>
+        <rules>
+            <select type="Archetype Feature" name="Element" supports="Chosen Element"></select>
+        </rules>
+	</element>
+    <element name="Fire" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_FIRE_ELEMENT">
+        <supports>Chosen Element</supports>
+        <description>
+            <p>You gain the Firelacing ability. You cannot use this ability while raging.</p>
+        </description>
+        <sheet>
+            <description>You gain the Firelacing ability. You cannot use this ability while raging.</description>
+        </sheet>
+    </element>
+    <element name="Air" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_AIR_ELEMENT">
+        <supports>Chosen Element</supports>
+        <description>
+            <p>You gain the Airlacing ability. You cannot use this ability while raging.</p>
+        </description>
+        <sheet>
+            <description>You gain the Airlacing ability. You cannot use this ability while raging.</description>
+        </sheet>
+    </element>
+    <element name="Water" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_WATER_ELEMENT">
+        <supports>Chosen Element</supports>
+        <description>
+            <p>You gain the Waterlacing ability. You cannot use this ability while raging.</p>
+        </description>
+        <sheet>
+            <description>You gain the Waterlacing ability. You cannot use this ability while raging.</description>
+        </sheet>
+    </element>
+    <element name="Earth" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_EARTH_ELEMENT">
+        <supports>Chosen Element</supports>
+        <description>
+            <p>You gain the Earthlacing ability. You cannot use this ability while raging.</p>
+        </description>
+        <sheet>
+            <description>You gain the Earthlacing ability. You cannot use this ability while raging.</description>
+        </sheet>
+    </element>
+    <element name="ELEMENT_FURY" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_ELEMENT_FURY">
+		<description>
+			<p>Also at 3rd level, your rage unleashes elemental fury in you. The fury extends 10 feet from you in every direction, but not through total cover.</p>
+            <p class="indent">Your fury causes your element to swirl around you, battering your foes. It activates when you enter your rage, and you can activate the effect again on each of your turns as a bonus action.</p>
+            <p class="indent">Each turn your fury is active, you can choose one other creature you can see in your aura. The target must make a Dexterity saving throw (DC equal to 8 + your proiciency bonus + your Constitution modiier). The target takes 1d6 bludgeoning damage on a failed save, or half as much damage on a successful one. The damage increases when you reach certain levels in this class, increasing to 2d6 at 10th level, 3d6 at 15th level, and 4d6 at 20th level.</p>
+		</description>
+		<sheet>
+			<description>Your rage unleashes elemental fury in you. The fury extends 10 feet in every direction, but not through total cover. You can choose one other creature you can see in your aura. The target must make a Dexterity saving throw {{dc:element fury barbarian elements}}. The target takes 1d6 bludgeoning damage on a failed save, or half as much damage on a successful one.</description>
+            <description level="10">Your rage unleashes elemental fury in you. The fury extends 10 feet in every direction, but not through total cover. You can choose one other creature you can see in your aura. The target must make a Dexterity saving throw {{dc:element fury barbarian elements}}. The target takes 2d6 bludgeoning damage on a failed save, or half as much damage on a successful one.</description>
+            <description level="15">Your rage unleashes elemental fury in you. The fury extends 10 feet in every direction, but not through total cover. You can choose one other creature you can see in your aura. The target must make a Dexterity saving throw {{dc:element fury barbarian elements}}. The target takes 3d6 bludgeoning damage on a failed save, or half as much damage on a successful one.</description>
+            <description level="20">Your rage unleashes elemental fury in you. The fury extends 10 feet in every direction, but not through total cover. You can choose one other creature you can see in your aura. The target must make a Dexterity saving throw {{dc:element fury barbarian elements}}. The target takes 4d6 bludgeoning damage on a failed save, or half as much damage on a successful one.</description>
+		</sheet>
+        <rules>
+			<stat name="dc:element fury barbarian elements:base" value="8" />
+			<stat name="dc:element fury barbarian elements:proficiency" value="proficiency:bonus" />
+            <stat name="dc:element fury barbarian elements:constitution" value="constitution:modifier" />
+
+			<stat name="dc:element fury barbarian elements" value="dc:element fury barbarian elements:base" />
+			<stat name="dc:element fury barbarian elements" value="dc:element fury barbarian elements:proficiency" />
+            <stat name="dc:element fury barbarian elements" value="dc:element fury barbarian elements:constituton" />
+		</rules>
+	</element>
+	<element name="Boon of the Elements" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_BOON_OF_THE_ELEMENTS">
+		<description>
+			<p>Beginning at 6th level, you gain a boon that activates any time you rage. These boons are different, depending on your element.</p>
+            <p class="indent"><b>Fire.</b> A creature that moves within 5 feet of you for the first time on a turn or starts its turn there takes 1d6 fire damage.</p>
+            <p class="indent"><b>Air.</b> Your jump distance is doubled, and falling damage is reduced by an amount equal to five times your barbarian level.</p>
+            <p class="indent"><b>Water.</b> When you initiate a rage, you gain a number of temporary hit points equal to your Wisdom modiier + your barbarian level. Any remaining temporary hit points are lost when your rage ends.</p>
+            <p class="indent"><b>Earth.</b> You are unaffected by dificult terrain, and gain tremorsense to a range of 10 feet. You gain the ability to move along vertical surfaces and ceilings made of earth or stone while leaving your hands free. You also gain a climbing speed equal to your walking speed.</p>
+		</description>
+		<sheet display="false">
+			<description>Beginning at 6th level, you gain a boon that activates any time you rage. These boons are different, depending on your element.</description>
+		</sheet>
+        <rules>
+            <grant type="Archetype Feature" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_BOON_OF_THE_ELEMENTS_FIRE" requirements="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_FIRE_ELEMENT" />
+            <grant type="Archetype Feature" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_BOON_OF_THE_ELEMENTS_AIR" requirements="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_AIR_ELEMENT" />
+            <grant type="Archetype Feature" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_BOON_OF_THE_ELEMENTS_WATER" requirements="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_WATER_ELEMENT" />
+            <grant type="Archetype Feature" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_BOON_OF_THE_ELEMENTS_EARTH" requirements="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_EARTH_ELEMENT" />
+        </rules>
+	</element>
+    <element name="Boon of the Elements (Fire)" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_BOON_OF_THE_ELEMENTS_FIRE">
+        <description>
+            <p>A creature that moves within 5 feet of you for the first time on a turn or starts its turn there takes 1d6 fire damage.</p>
+        </description>
+        <sheet>
+            <description>A creature that moves within 5 feet of you for the first time on a turn or starts its turn there takes 1d6 fire damage.</description>
+        </sheet>
+    </element>
+    <element name="Boon of the Elements (Air)" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_BOON_OF_THE_ELEMENTS_AIR">
+        <description>
+            <p>Your jump distance is doubled, and falling damage is reduced by an amount equal to five times your barbarian level.</p>
+        </description>
+        <sheet>
+            <description>Your jump distance is doubled, and falling damage is reduced by an amount equal to five times your barbarian level.</description>
+        </sheet>
+    </element>
+    <element name="Boon of the Elements (Water)" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_BOON_OF_THE_ELEMENTS_WATER">
+        <description>
+            <p>When you initiate a rage, you gain a number of temporary hit points equal to your Wisdom modiier + your barbarian level. Any remaining temporary hit points are lost when your rage ends.</p>
+        </description>
+        <sheet>
+            <description>When you initiate a rage, you gain a number of temporary hit points equal to {{temp:boon of the elements:water}}. Any remaining temporary hit points are lost when your rage ends.</description>
+        </sheet>
+        <rules>
+			<stat name="temp:boon of the elements:water:level" value="level" />
+            <stat name="temp:boon of the elements:water:wisdom" value="wisdom:modifier" />
+
+			<stat name="temp:boon of the elements:water" value="temp:boon of the elements:water:level" />
+            <stat name="temp:boon of the elements:water" value="temp:boon of the elements:water:wisdom" />
+		</rules>
+    </element>
+    <element name="Boon of the Elements (Earth)" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_BOON_OF_THE_ELEMENTS_EARTH">
+        <description>
+            <p>You are unaffected by dificult terrain, and gain tremorsense to a range of 10 feet. You gain the ability to move along vertical surfaces and ceilings made of earth or stone while leaving your hands free. You also gain a climbing speed equal to your walking speed.</p>
+        </description>
+        <sheet>
+            <description>You are unaffected by dificult terrain, and gain tremorsense to a range of 10 feet. You gain the ability to move along vertical surfaces and ceilings made of earth or stone while leaving your hands free. You also gain a climbing speed equal to your walking speed.</description>
+        </sheet>
+        <rules>
+            <stat name="speed:boon of elements:climb" value="innate speed" />
+            <stat name="speed:climb" value="speed:boon of elements:climb" />
+        </rules>
+    </element>
+	<element name="One with Nature" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_ONE_WITH_NATURE">
+		<description>
+			<p>At 10th level, you can cast the commune with nature spell, but only as a ritual. When you do so, a spiritual creature appears to you to convey the information you seek.</p>
+		</description>
+		<sheet usage="1/Short Rest">
+			<description>At 10th level, you can cast the commune with nature spell, but only as a ritual. When you do so, a spiritual creature appears to you to convey the information you seek.</description>
+		</sheet>
+		<rules>
+			<grant type="Spell" id="ID_PHB_SPELL_COMMUNE_WITH_NATURE" />
+		</rules>
+	</element>
+	<element name="Spiritual Might" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_SPIRITUAL_MIGHT">
+		<description>
+			<p>Starting at 14th level, you gain a number of abilities any time you rage.</p>
+            <p class="indent"><b>Fire.</b> You are immune to fire damage and have resistance to cold damage. When you take damage from a creature that is within 5 feet of you, you can use your reaction to activate your Elemental Fury against that creature.</p>
+            <p class="indent"><b>Air.</b> Your speed is increased by 20 feet. When you make a successful attack against a creature, you can choose to blast the target with air. The target is pushed 10 feet away from you.</p>
+            <p class="indent"><b>Water.</b> You are immune to cold damage and have resistance to fire damage. You gain a swim speed of 30 feet.</p>
+            <p class="indent">In addition, if you miss a creature with an attack, you can immediately make another attack against the same creature as part of the same attack. Once you use this ability, you can't do so against until the beginning of your next turn.</p>
+            <p class="indent"><b>Earth.</b> You gain a burrow speed of 20 feet, and your tremorsense increases to a range of 30 feet.</p>
+            <p class="indent">In addition, the ground in a 10-foot radius around you ruptures and is dificult terrain for creatures other than you. The radius moves with you, and any area you leave returns to normal.</p>
+		</description>
+		<sheet display="false">
+			<description>Starting at 14th level, you gain a number of abilities any time you rage.</description>
+		</sheet>
+        <rules>
+            <grant type="Archetype Feature" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_SPIRITUAL_MIGHT_FIRE" requirements="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_FIRE_ELEMENT" />
+            <grant type="Archetype Feature" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_SPIRITUAL_MIGHT_AIR" requirements="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_AIR_ELEMENT" />
+            <grant type="Archetype Feature" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_SPIRITUAL_MIGHT_WATER" requirements="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_WATER_ELEMENT" />
+            <grant type="Archetype Feature" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_SPIRITUAL_MIGHT_EARTH" requirements="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_EARTH_ELEMENT" />
+        </rules>
+	</element>
+    <element name="Spiritual Might (Fire)" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_SPIRITUAL_MIGHT_FIRE">
+        <description>
+            <p>You are immune to fire damage and have resistance to cold damage. When you take damage from a creature that is within 5 feet of you, you can use your reaction to activate your Elemental Fury against that creature.</p>
+        </description>
+        <sheet action="reaction">
+            <description>You are immune to fire damage and have resistance to cold damage. When you take damage from a creature that is within 5 feet of you, you can use your reaction to activate your Elemental Fury against that creature.</description>
+        </sheet>
+    </element>
+    <element name="Spiritual Might (Air)" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_SPIRITUAL_MIGHT_AIR">
+        <description>
+            <p>Your speed is increased by 20 feet. When you make a successful attack against a creature, you can choose to blast the target with air. The target is pushed 10 feet away from you.</p>
+        </description>
+        <sheet>
+            <description>Your speed is increased by 20 feet. When you make a successful attack against a creature, you can choose to blast the target with air. The target is pushed 10 feet away from you.</description>
+        </sheet>
+    </element>
+    <element name="Spiritual Might (Water)" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_SPIRITUAL_MIGHT_WATER">
+        <description>
+            <p>You are immune to cold damage and have resistance to fire damage. You gain a swim speed of 30 feet.</p>
+            <p class="indent">In addition, if you miss a creature with an attack, you can immediately make another attack against the same creature as part of the same attack. Once you use this ability, you can't do so against until the beginning of your next turn.</p>
+        </description>
+        <sheet>
+            <description>
+                <p>You are immune to cold damage and have resistance to fire damage. You gain a swim speed of 30 feet.</p>
+                <p class="indent">In addition, if you miss a creature with an attack, you can immediately make another attack against the same creature as part of the same attack. Once you use this ability, you can't do so against until the beginning of your next turn.</p>
+            </description>
+        </sheet>
+    </element>
+    <element name="Spiritual Might (Earth)" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_SPIRITUAL_MIGHT_EARTH">
+        <description>
+            <p>You gain a burrow speed of 20 feet, and your tremorsense increases to a range of 30 feet.</p>
+            <p class="indent">In addition, the ground in a 10-foot radius around you ruptures and is dificult terrain for creatures other than you. The radius moves with you, and any area you leave returns to normal.</p>
+        </description>
+        <sheet>
+            <description>
+                <p>You gain a burrow speed of 20 feet, and your tremorsense increases to a range of 30 feet.</p>
+                <p class="indent">In addition, the ground in a 10-foot radius around you ruptures and is dificult terrain for creatures other than you. The radius moves with you, and any area you leave returns to normal.</p>
+            </description>
+        </sheet>
+    </element>
+</elements>

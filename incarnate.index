@@ -4,7 +4,7 @@
 		<name>Incarnate: Last of the Lacers</name>
 		<description>DM's Guild Content</description>
 		<author url="https://github.com/BloxBoss6/Incarnate-Last-of-the-Lacers">Alex Tanner</author>
-		<update version="0.0.7">
+		<update version="0.0.8">
 			<file name="incarnate.index" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/incarnate.index" />
 		</update>
 	</info>
@@ -17,5 +17,8 @@
 		<file name="water-clan.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/water-clan.xml" />
 		<file name="earth-kin.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/earth-kin.xml" />
 		<file name="obake.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/obake.xml" />
+
+		<!-- Classes -->
+		<file name="barbarian-elements.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/classes/barbarian-elements.xml" />
 	</files>
 </index>
