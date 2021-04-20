@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <elements>
 	<info>
-		<name>Okabe</name>
+		<name>Obake</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
-		<update version="0.2">
-			<file name="okabe.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/okabe.xml" />
+		<update version="0.3">
+			<file name="obake.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/obake.xml" />
 		</update>
 	</info>
 
-  <element name="Okabe" type="Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACE_OKABE">
+  <element name="Obake" type="Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACE_OBAKE">
     <description>
       <p class="flavor">"She's a part of our town's lore. They say she's a river spirit who watches over our town in times of need. I always thought she was just a legend. Until now..."</p>
       <p>Secluded and secretive, the obake make many appearances in the folklore and stories of other races, yet few have truly been encountered. Even those who do meet an obake may never know it, as they can take on human forms and live amongst other races, with their true nature never being uncovered.</p>
@@ -37,7 +37,7 @@
       <p class="indent"><b>Water Clan.</b> "People from the water clan are malleable, that's what I like about them. They can roll with the punches, never getting too hung up on tradition and whatnot. Sure they have their history, and some of their ideas can be a little wacky, but spend enough time with someone from the water clan, and you might see real change in them. That's not something you see often."</p>
       <p class="indent"><b>Earth Kin.</b> "Out of everyone, the earth kin can be the most stubborn. This isn't always a bad thing, but their unwillingness to budge isn't exactly fun. Lighten up, right?"</p>
 
-      <h4>OKABE NAMES</h4>
+      <h4>OBAKE NAMES</h4>
       <p>Obake are generally referred to by two names throughout their life. When an obake is born, it is given a name by its family. These names are often ancient, and their true origins are unknown. Obake who still go by their family's given name are considered children, even those who are hundreds of years old. The concept of young or old in regards to the term child is not well understood by obake.</p>
       <p class="indent">An obake becomes an adult when it is given a name by another creature. The other creature may be another obake who has referred to it by its family name for years. Or it may be a member of another community or race, who has never heard of the obake's true name and so calls it something else. While an obake is never to explicitly encourage another creature to give it its adult name, the moment when an obake becomes an adult is one that is rarely forgotten.</p>
       <p>
@@ -45,7 +45,7 @@
         <span class="feature">Female Names:</span>Ama, Benzaiten, Byakko, Chimi, Hashihime, Iwanaga, Izanami, Kejoro, Kijo, Kuebiko, Kuraokami, Momiji, Myobu, Okami, Omoikane, Sakuya, Shirayama, Sukuna, Terasu, Toyotama, Tsuki, Ukemochi, Uzume, Yurei<br/>
       </p>
 
-      <h4>OKABE TRAITS</h4>
+      <h4>OBAKE TRAITS</h4>
       <p>Due to the wide variety of subraces there are amongst obake, they differ greatly from one another, but do share some qualities.</p>
       <p>
         <span class="feature">Ability Score Increase.</span>Choose either your Wisdom or your Charisma score. That ability score increases by 2.<br />
@@ -71,7 +71,6 @@
     </setters>
     <rules>
       <select type="Racial Trait" name="Ability Score Increase (Obake)" supports="Obake" number="1"/>
-      <select type="Racial Trait" name="Ability Score Increase (Obake)" supports="Obake" number="1"/>
       <stat name="innate speed" value="30" bonus="base" />
       <grant type="Size" id="ID_SIZE_MEDIUM" />
       <grant type="Vision" id="ID_VISION_DARKVISION" />
@@ -88,10 +87,10 @@
 		<compendium display="false" />
 		<supports>Obake</supports>
 		<description>
-			<p>Your Charisma score increases by 1.</p>
+			<p>Your Charisma score increases by 2.</p>
 		</description>
 		<rules>
-			<stat name="charisma" value="1"/>
+			<stat name="charisma" value="2"/>
 		</rules>
 	</element>
 
@@ -99,10 +98,10 @@
 		<compendium display="false" />
 		<supports>Obake</supports>
 		<description>
-			<p>Your Wisdom score increases by 1.</p>
+			<p>Your Wisdom score increases by 2.</p>
 		</description>
 		<rules>
-			<stat name="wisdom" value="1"/>
+			<stat name="wisdom" value="2"/>
 		</rules>
 	</element>
 
