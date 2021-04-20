@@ -2,7 +2,7 @@
 <elements>
 	<info>
 		<name>Elements</name>
-		<update version="0.2">
+		<update version="0.3">
 			<file name="barbarian-elements.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/classes/barbarian-elements.xml" />
 		</update>
 	</info>
@@ -97,7 +97,7 @@
 
 			<stat name="dc:element fury barbarian elements" value="dc:element fury barbarian elements:base" />
 			<stat name="dc:element fury barbarian elements" value="dc:element fury barbarian elements:proficiency" />
-            <stat name="dc:element fury barbarian elements" value="dc:element fury barbarian elements:constituton" />
+            <stat name="dc:element fury barbarian elements" value="dc:element fury barbarian elements:constitution" />
 		</rules>
 	</element>
 	<element name="Boon of the Elements" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_BOON_OF_THE_ELEMENTS">
@@ -196,9 +196,13 @@
         <description>
             <p>You are immune to fire damage and have resistance to cold damage. When you take damage from a creature that is within 5 feet of you, you can use your reaction to activate your Elemental Fury against that creature.</p>
         </description>
-        <sheet action="reaction">
+        <sheet action="Reaction">
             <description>You are immune to fire damage and have resistance to cold damage. When you take damage from a creature that is within 5 feet of you, you can use your reaction to activate your Elemental Fury against that creature.</description>
         </sheet>
+        <rules>
+            <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_COLD" />
+            <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_IMMUNITY_FIRE" />
+        </rules>
     </element>
     <element name="Spiritual Might (Air)" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_SPIRITUAL_MIGHT_AIR">
         <description>
@@ -219,6 +223,10 @@
                 <p class="indent">In addition, if you miss a creature with an attack, you can immediately make another attack against the same creature as part of the same attack. Once you use this ability, you can't do so against until the beginning of your next turn.</p>
             </description>
         </sheet>
+        <rules>
+            <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_RESISTANCE_FIRE" />
+            <grant type="Condition" id="ID_INTERNAL_CONDITION_DAMAGE_IMMUNITY_COLD" />
+        </rules>
     </element>
     <element name="Spiritual Might (Earth)" type="Archetype Feature" source="Incarnate: The Last of the Lacers" id="ID_INCRN_ARCHETYPE_FEATURE_ELEMENTS_SPIRITUAL_MIGHT_EARTH">
         <description>
