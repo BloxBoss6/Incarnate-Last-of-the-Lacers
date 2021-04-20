@@ -4,7 +4,7 @@
 		<name>Okabe</name>
 		<description></description>
 		<author url="https://www.dmsguild.com/product/191837/Incarnate-The-Last-of-the-Lacers">Alex Tanner</author>
-		<update version="0.1">
+		<update version="0.2">
 			<file name="okabe.xml" url="https://raw.githubusercontent.com/BloxBoss6/Incarnate-Last-of-the-Lacers/master/races/okabe.xml" />
 		</update>
 	</info>
@@ -70,7 +70,8 @@
       <set name="weight" modifier="2d4">90 lb.</set>
     </setters>
     <rules>
-      <select type="Racial Trait" name="Ability Score Increase (Obake)" supports="Obake" number="2"/>
+      <select type="Racial Trait" name="Ability Score Increase (Obake)" supports="Obake" number="1"/>
+      <select type="Racial Trait" name="Ability Score Increase (Obake)" supports="Obake" number="1"/>
       <stat name="innate speed" value="30" bonus="base" />
       <grant type="Size" id="ID_SIZE_MEDIUM" />
       <grant type="Vision" id="ID_VISION_DARKVISION" />
@@ -149,7 +150,7 @@
     </description>
     <sheet display="false" />
     <rules>
-      <stat name="consitution" value="1" />
+      <stat name="constitution" value="1" />
       <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_TANUKI_SPIRIT" />
       <grant type="Racial Trait" id="ID_INCRN_RACIAL_TRAIT_STATUE_FORM" />
     </rules>
@@ -284,7 +285,7 @@
     </rules>
   </element>
 
-  <element name="KAWAUSO" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_KAWAUSO">
+  <element name="Kawauso" type="Sub Race" source="Incarnate: The Last of the Lacers" id="ID_INCRN_SUB_RACE_KAWAUSO">
     <supports>Obake</supports>
     <description>
       <p>The kawauso are otter-like obake, living on the shores of rivers and lakes. Playful and gregarious, the kawauso are always open to sharing their lives and homes with friendly travelers. Kawauso are trusting by nature, but those who cross a kawauso may find that they never encounter another, as news travels fast amongst a kawauso community, and memories are long.</p>
@@ -461,7 +462,7 @@
     </sheet>
   </element>
   
-  <element name="Agile Climber" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_AGILE_CLIMBER">
+  <element name="Water Breathing" type="Racial Trait" source="Incarnate: The Last of the Lacers" id="ID_INCRN_RACIAL_TRAIT_WATER_BREATHING">
     <description>
       <p>You can breathe both underwater and on land. You gain a swim speed of 15 feet.</p>
     </description>
